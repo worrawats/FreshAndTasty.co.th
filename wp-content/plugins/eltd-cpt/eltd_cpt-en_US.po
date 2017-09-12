@@ -1,0 +1,619 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elated CPT v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-06-03 13:28:15+0000\n"
+"Last-Translator: admin <support@elated-themes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cpt/carousels/shortcodes/eltd.carouselsc.php:263
+#: cpt/eltd-slider/shortcodes/eltd.slidersc.php:1955
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:747
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:1063
+#: cpt/portfolio/shortcodes/eltd.portfolioslidersc.php:372
+#: cpt/testimonials/shortcodes/eltd.testimonialssc.php:561
+#@ eltd_cpt
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: cpt/eltd-cpt.php:79
+#@ eltd_cpt
+msgid "Portfolio"
+msgstr ""
+
+#: cpt/eltd-cpt.php:80
+#@ eltd_cpt
+msgid "Portfolio Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:81
+#@ eltd_cpt
+msgid "New Portfolio Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:82
+#@ eltd_cpt
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:83
+#@ eltd_cpt
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:96
+#: cpt/eltd-cpt.php:106
+#@ eltd_cpt
+msgid "Portfolio Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:97
+#@ eltd_cpt
+msgid "Portfolio Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:98
+#@ eltd_cpt
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:99
+#@ eltd_cpt
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:100
+#@ eltd_cpt
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:101
+#@ eltd_cpt
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: cpt/eltd-cpt.php:102
+#@ eltd_cpt
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:103
+#@ eltd_cpt
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:104
+#@ eltd_cpt
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:105
+#@ eltd_cpt
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: cpt/eltd-cpt.php:118
+#: cpt/eltd-cpt.php:128
+#@ eltd_cpt
+msgid "Portfolio Tags"
+msgstr ""
+
+#: cpt/eltd-cpt.php:119
+#@ eltd_cpt
+msgid "Portfolio Tag"
+msgstr ""
+
+#: cpt/eltd-cpt.php:120
+#@ eltd_cpt
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: cpt/eltd-cpt.php:121
+#@ eltd_cpt
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: cpt/eltd-cpt.php:122
+#@ eltd_cpt
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: cpt/eltd-cpt.php:123
+#@ eltd_cpt
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: cpt/eltd-cpt.php:124
+#@ eltd_cpt
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: cpt/eltd-cpt.php:125
+#@ eltd_cpt
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: cpt/eltd-cpt.php:126
+#@ eltd_cpt
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: cpt/eltd-cpt.php:127
+#@ eltd_cpt
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: cpt/eltd-cpt.php:156
+#@ eltd_cpt
+msgid "Testimonials"
+msgstr ""
+
+#: cpt/eltd-cpt.php:157
+#@ eltd_cpt
+msgid "Testimonial"
+msgstr ""
+
+#: cpt/eltd-cpt.php:158
+#@ eltd_cpt
+msgid "New Testimonial"
+msgstr ""
+
+#: cpt/eltd-cpt.php:159
+#@ eltd_cpt
+msgid "Add New Testimonial"
+msgstr ""
+
+#: cpt/eltd-cpt.php:160
+#@ eltd_cpt
+msgid "Edit Testimonial"
+msgstr ""
+
+#: cpt/eltd-cpt.php:175
+#: cpt/eltd-cpt.php:185
+#@ eltd_cpt
+msgid "Testimonials Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:176
+#@ eltd_cpt
+msgid "Testimonial Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:177
+#@ eltd_cpt
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:178
+#@ eltd_cpt
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: cpt/eltd-cpt.php:179
+#@ eltd_cpt
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:180
+#@ eltd_cpt
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: cpt/eltd-cpt.php:181
+#@ eltd_cpt
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:182
+#@ eltd_cpt
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:183
+#@ eltd_cpt
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: cpt/eltd-cpt.php:184
+#@ eltd_cpt
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: cpt/eltd-cpt.php:214
+#: cpt/eltd-cpt.php:215
+#@ eltd_cpt
+msgid "Elated Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:216
+#@ eltd_cpt
+msgid "Carousel Items"
+msgstr ""
+
+#: cpt/eltd-cpt.php:217
+#: cpt/eltd-cpt.php:220
+#@ eltd_cpt
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:218
+#@ eltd_cpt
+msgid "Carousel Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:219
+#@ eltd_cpt
+msgid "New Carousel Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:221
+#@ eltd_cpt
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: cpt/eltd-cpt.php:236
+#: cpt/eltd-cpt.php:246
+#@ eltd_cpt
+msgid "Carousels"
+msgstr ""
+
+#: cpt/eltd-cpt.php:237
+#@ eltd_cpt
+msgid "Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:238
+#@ eltd_cpt
+msgid "Search Carousels"
+msgstr ""
+
+#: cpt/eltd-cpt.php:239
+#@ eltd_cpt
+msgid "All Carousels"
+msgstr ""
+
+#: cpt/eltd-cpt.php:240
+#@ eltd_cpt
+msgid "Parent Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:241
+#@ eltd_cpt
+msgid "Parent Carousel:"
+msgstr ""
+
+#: cpt/eltd-cpt.php:242
+#@ eltd_cpt
+msgid "Edit Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:243
+#@ eltd_cpt
+msgid "Update Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:244
+#@ eltd_cpt
+msgid "Add New Carousel"
+msgstr ""
+
+#: cpt/eltd-cpt.php:245
+#@ eltd_cpt
+msgid "New Carousel Name"
+msgstr ""
+
+#: cpt/eltd-cpt.php:274
+#: cpt/eltd-cpt.php:275
+#@ eltd_cpt
+msgid "Elated Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:276
+#@ eltd_cpt
+msgid "Slides"
+msgstr ""
+
+#: cpt/eltd-cpt.php:277
+#: cpt/eltd-cpt.php:280
+#@ eltd_cpt
+msgid "Add New Slide"
+msgstr ""
+
+#: cpt/eltd-cpt.php:278
+#@ eltd_cpt
+msgid "Slide"
+msgstr ""
+
+#: cpt/eltd-cpt.php:279
+#@ eltd_cpt
+msgid "New Slide"
+msgstr ""
+
+#: cpt/eltd-cpt.php:281
+#@ eltd_cpt
+msgid "Edit Slide"
+msgstr ""
+
+#: cpt/eltd-cpt.php:296
+#: cpt/eltd-cpt.php:306
+#@ eltd_cpt
+msgid "Sliders"
+msgstr ""
+
+#: cpt/eltd-cpt.php:297
+#@ eltd_cpt
+msgid "Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:298
+#@ eltd_cpt
+msgid "Search Sliders"
+msgstr ""
+
+#: cpt/eltd-cpt.php:299
+#@ eltd_cpt
+msgid "All Sliders"
+msgstr ""
+
+#: cpt/eltd-cpt.php:300
+#@ eltd_cpt
+msgid "Parent Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:301
+#@ eltd_cpt
+msgid "Parent Slider:"
+msgstr ""
+
+#: cpt/eltd-cpt.php:302
+#@ eltd_cpt
+msgid "Edit Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:303
+#@ eltd_cpt
+msgid "Update Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:304
+#@ eltd_cpt
+msgid "Add New Slider"
+msgstr ""
+
+#: cpt/eltd-cpt.php:305
+#@ eltd_cpt
+msgid "New Slider Name"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:10
+#@ eltd_cpt
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:21
+#@ eltd_cpt
+msgid "Show prev/next thumbs (except for side menu or passepartout)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:33
+#@ eltd_cpt
+msgid "Show slide number"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:45
+#@ eltd_cpt
+msgid "Parallax effect"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:56
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 1 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:60
+#: cpt/eltd-slider/eltd-slider-settings.php:90
+#: cpt/eltd-slider/eltd-slider-settings.php:120
+#: cpt/eltd-slider/eltd-slider-settings.php:150
+#: cpt/eltd-slider/eltd-slider-settings.php:180
+#: cpt/eltd-slider/eltd-slider-settings.php:210
+#: cpt/eltd-slider/eltd-slider-settings.php:240
+#@ eltd_cpt
+msgid "Graphic"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:64
+#: cpt/eltd-slider/eltd-slider-settings.php:94
+#: cpt/eltd-slider/eltd-slider-settings.php:124
+#: cpt/eltd-slider/eltd-slider-settings.php:154
+#: cpt/eltd-slider/eltd-slider-settings.php:184
+#: cpt/eltd-slider/eltd-slider-settings.php:214
+#: cpt/eltd-slider/eltd-slider-settings.php:244
+#@ eltd_cpt
+msgid "Title"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:68
+#: cpt/eltd-slider/eltd-slider-settings.php:98
+#: cpt/eltd-slider/eltd-slider-settings.php:128
+#: cpt/eltd-slider/eltd-slider-settings.php:158
+#: cpt/eltd-slider/eltd-slider-settings.php:188
+#: cpt/eltd-slider/eltd-slider-settings.php:218
+#: cpt/eltd-slider/eltd-slider-settings.php:248
+#@ eltd_cpt
+msgid "Subtitle"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:72
+#: cpt/eltd-slider/eltd-slider-settings.php:102
+#: cpt/eltd-slider/eltd-slider-settings.php:132
+#: cpt/eltd-slider/eltd-slider-settings.php:162
+#: cpt/eltd-slider/eltd-slider-settings.php:192
+#: cpt/eltd-slider/eltd-slider-settings.php:222
+#: cpt/eltd-slider/eltd-slider-settings.php:252
+#@ eltd_cpt
+msgid "Text"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:76
+#: cpt/eltd-slider/eltd-slider-settings.php:106
+#: cpt/eltd-slider/eltd-slider-settings.php:136
+#: cpt/eltd-slider/eltd-slider-settings.php:166
+#: cpt/eltd-slider/eltd-slider-settings.php:196
+#: cpt/eltd-slider/eltd-slider-settings.php:226
+#: cpt/eltd-slider/eltd-slider-settings.php:256
+#@ eltd_cpt
+msgid "Button"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:81
+#@ eltd_cpt
+msgid "screen width > 1600px for 'set1' and 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:86
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 2 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:111
+#@ eltd_cpt
+msgid "screen width = [1200px,1600px] for 'set1', screen width = [1300px,1600px] for 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:116
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 3 (values: 0-1, default value: 0.8)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:141
+#@ eltd_cpt
+msgid "screen width = [900px,1200px] for 'set1', screen width = [1000px,1300px] for 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:146
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 4 (values: 0-1, default value: 0.7)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:171
+#@ eltd_cpt
+msgid "screen width = [650px,900px] for 'set1', screen width = [768px,1000px] for 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:176
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 5 (values: 0-1, default value: 0.6)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:201
+#@ eltd_cpt
+msgid "screen width = [500px,650px] for 'set1', screen width = [567px,768px] for 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:206
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 6 (values: 0-1, default value: 0.5)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:231
+#@ eltd_cpt
+msgid "screen width = [320px,500px] for 'set1', screen width = [320px,567px] for 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:236
+#@ eltd_cpt
+msgid "Breakpoint Coefficients 7 (values: 0-1, default value: 0.4)"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:261
+#@ eltd_cpt
+msgid "screen width < 320px for 'set1' and 'set2'"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:266
+#@ eltd_cpt
+msgid "Slider shortcode"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:270
+#@ eltd_cpt
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:300
+#@ eltd_cpt
+msgid "Name"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:301
+#@ eltd_cpt
+msgid "Shortcode"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:303
+#@ eltd_cpt
+msgid "Slug"
+msgstr ""
+
+#: cpt/eltd-slider/eltd-slider-settings.php:304
+#@ eltd_cpt
+msgid "Posts"
+msgstr ""
+
+#: cpt/eltd-slider/shortcodes/eltd.slidersc.php:1930
+#@ eltd_cpt
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:431
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:768
+#@ eltd_cpt
+msgid "Sort Portfolio:"
+msgstr ""
+
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:434
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:436
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:770
+#@ eltd_cpt
+msgid "All"
+msgstr "All some"
+
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:755
+#@ eltd_cpt
+msgid "Show more"
+msgstr ""
+
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:756
+#@ eltd_cpt
+msgid "Loading..."
+msgstr ""
+
+#: cpt/portfolio/shortcodes/eltd.portfoliolistsc.php:1835
+#@ eltd_cpt
+msgid "Please insert top margin for load more button"
+msgstr ""
+
+#: cpt/portfolio/shortcodes/eltd.portfolioslidersc.php:257
+#@ eltd_cpt
+msgid "In "
+msgstr ""
+
+#: cpt/testimonials/shortcodes/eltd.testimonialssc.php:337
+#@ eltd_cpt
+msgid "Speed of slide animation in miliseconds"
+msgstr ""
+

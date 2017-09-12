@@ -1,0 +1,151 @@
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP1 START @ 03:17:05
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+VERSION:	1.1.16
+PHP:		5.6.22 | SAPI: apache2handler
+SERVER:		Apache/2.4.18 (Win32) OpenSSL/1.0.2e PHP/5.6.22
+DOC ROOT:	C:/AppServ/www/freshandtasty
+DOC ROOT 755:	true
+LOG FILE 644:	true
+BUILD NAME:	20160825_freshandtastycoth_57bf05605345d2170160825144904
+REQUEST URL:	http://localhost/freshandtasty/installer.php
+
+********************************************************************************
+ARCHIVE SETUP
+********************************************************************************
+NAME:	20160825_freshandtastycoth_57bf05605345d2170160825144904_archive.zip
+SIZE:	1.07GB
+ZIP:	Enabled (ZipArchive Support)
+
+** PACKAGE EXTRACTION IS IN MANUAL MODE ** 
+
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to .orig
+- Reset of .htaccess/web.config files
+
+UPDATED FILES:
+- SQL FILE:  'C:/AppServ/www/freshandtasty/installer-data.sql'
+- WP-CONFIG: 'C:/AppServ/www/freshandtasty/wp-config.php'
+
+ARCHIVE RUNTIME: 0.0152 sec.
+
+
+********************************************************************************
+DATABASE-ROUTINES
+********************************************************************************
+--------------------------------------
+SERVER ENVIROMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.13 -- Build Server: 10.1.13
+TIMEOUT:	5000
+MAXPACK:	4194304
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+DROP TABLE:	removed (0) tables
+QUERIES RAN:	6462
+
+wp_commentmeta: (0)
+wp_comments: (0)
+wp_duplicator_packages: (1)
+wp_layerslider: (2)
+wp_links: (0)
+wp_options: (275)
+wp_postmeta: (4424)
+wp_posts: (1038)
+wp_revslider_css: (109)
+wp_revslider_layer_animations: (0)
+wp_revslider_navigations: (0)
+wp_revslider_sliders: (0)
+wp_revslider_slides: (0)
+wp_revslider_static_slides: (0)
+wp_term_relationships: (258)
+wp_term_taxonomy: (119)
+wp_termmeta: (0)
+wp_terms: (119)
+wp_usermeta: (91)
+wp_users: (4)
+Removed '54' cache/transient rows
+
+SECTION RUNTIME: 11.4939 sec.
+
+********************************************************************************
+STEP1 COMPLETE @ 03:17:16 - TOTAL RUNTIME: 11.5152 sec.
+********************************************************************************
+
+
+
+********************************************************************************
+DUPLICATOR INSTALL-LOG
+STEP2 START @ 03:17:28
+NOTICE: Do not post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	utf8
+CHARSET CLIENT:	 utf8 
+
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wp_commentmeta^ (0)
+wp_comments^ (0)
+wp_duplicator_packages^ (0)
+wp_layerslider~ (2)
+wp_links^ (0)
+wp_options~ (219)
+wp_postmeta~ (4424)
+wp_posts~ (1038)
+wp_revslider_css~ (109)
+wp_revslider_layer_animations^ (0)
+wp_revslider_navigations^ (0)
+wp_revslider_sliders^ (0)
+wp_revslider_slides^ (0)
+wp_revslider_static_slides^ (0)
+wp_term_relationships~ (258)
+wp_term_taxonomy~ (119)
+wp_termmeta^ (0)
+wp_terms~ (119)
+wp_usermeta~ (91)
+wp_users~ (4)
+--------------------------------------
+Search1:	'http://freshandtasty.co.th' 
+Change1:	'http://localhost/freshandtasty' 
+Search2:	'/home/freshan1/domains/freshandtasty.co.th/public_html' 
+Change2:	'C:/AppServ/www/freshandtasty' 
+Search3:	'http:\/\/freshandtasty.co.th' 
+Change3:	'http:\/\/localhost\/freshandtasty' 
+Search4:	'\/home\/freshan1\/domains\/freshandtasty.co.th\/public_html' 
+Change4:	'C:\/AppServ\/www\/freshandtasty' 
+Search5:	'%2Fhome%2Ffreshan1%2Fdomains%2Ffreshandtasty.co.th%2Fpublic_html%2F' 
+Change5:	'C%3A%2FAppServ%2Fwww%2Ffreshandtasty%2F' 
+Search6:	'http%3A%2F%2Ffreshandtasty.co.th' 
+Change6:	'http%3A%2F%2Flocalhost%2Ffreshandtasty' 
+Search7:	'\home\freshan1\domains\freshandtasty.co.th\public_html' 
+Change7:	'C:/AppServ/www/freshandtasty' 
+SCANNED:	Tables:20 	|	 Rows:6383 	|	 Cells:45486 
+UPDATED:	Tables:1 	|	 Rows:1013 	|	 Cells:1184 
+ERRORS:		0 
+RUNTIME:	1.751400 sec
+
+********************************************************************************
+START FINAL CLEANUP: 03:17:30
+********************************************************************************
+UPDATE `wp_blogs` SET domain = 'localhost' WHERE domain = 'freshandtasty.co.th'
+
+--------------------------------------
+NOTICES
+--------------------------------------
+No Notices Found
+
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+created basic .htaccess file.  If using IIS web.config this process will need to be done manually.
+********************************************************************************
+STEP 2 COMPLETE @ 03:17:30 - TOTAL RUNTIME: 2.3964 sec.
+********************************************************************************

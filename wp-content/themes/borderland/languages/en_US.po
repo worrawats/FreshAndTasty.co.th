@@ -1,0 +1,2307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Borderland v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-27 15:34:02+0000\n"
+"Last-Translator: admin <support@elated-themes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:15
+#@ eltd
+msgid "Page you are looking is Not Found"
+msgstr ""
+
+#: 404.php:17
+#@ eltd
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site’s homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: 404.php:18
+#@ eltd
+msgid "Back to homepage"
+msgstr ""
+
+#: blog-vertical-loop.php:60
+#: search.php:45
+#: search.php:64
+#: search.php:92
+#: templates/blog/blog-structure.php:163
+#@ eltd
+msgid "No posts were found."
+msgstr ""
+
+#: comments.php:23
+#@ eltd
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:23
+#@ eltd
+msgid " Comment "
+msgstr ""
+
+#: comments.php:23
+#@ eltd
+msgid " Comments "
+msgstr ""
+
+#: comments.php:26
+#@ eltd
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:50
+#@ eltd
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:63
+#@ eltd
+msgid "Post a Comment"
+msgstr ""
+
+#: comments.php:64
+#, php-format
+#@ eltd
+msgid "Post a Reply to %s"
+msgstr ""
+
+#: comments.php:65
+#@ eltd
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:66
+#: includes/import/class.wordpress-importer.php:279
+#: woocommerce/single-product-reviews.php:64
+#@ eltd
+#@ wordpress-importer
+#@ woocommerce
+msgid "Submit"
+msgstr ""
+
+#: comments.php:67
+#@ eltd
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:71
+#@ eltd
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:72
+#@ eltd
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:73
+#@ eltd
+msgid "Website"
+msgstr ""
+
+#: export/eltd-export.php:299
+#@ eltd
+msgid "Elated Export"
+msgstr ""
+
+#: export/eltd-export.php:319
+#@ eltd
+msgid "Export"
+msgstr ""
+
+#: extendvc/extend-vc.php:1810
+#: extendvc/extend-vc.php:8895
+#@ eltd
+msgid "Insert border radius(Rounded corners) in px. For example: 4. Leave empty for default. "
+msgstr ""
+
+#: extendvc/extend-vc.php:1963
+#@ js_composer
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: extendvc/extend-vc.php:1979
+#@ eltd
+msgid "Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:2063
+#@ eltd
+msgid "Elements Holder Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:2270
+#@ eltd
+msgid "Bordered Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:2347
+#: extendvc/extend-vc.php:4484
+#: includes/nav_menu/edit_custom_walker.php:206
+#: includes/plugins/class-tgm-plugin-activation.php:1293
+#@ eltd
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: extendvc/extend-vc.php:3106
+#@ eltd
+msgid "Elated Vertical Split Slider"
+msgstr ""
+
+#: extendvc/extend-vc.php:3132
+#@ eltd
+msgid "Left Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:3148
+#@ eltd
+msgid "Right Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:3164
+#@ eltd
+msgid "Slide Content Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:5922
+#: extendvc/extend-vc.php:5978
+#@ eltd
+msgid "Please insert padding in format (top right bottom left) i.e. 5px 5px 5px 5px"
+msgstr ""
+
+#: extendvc/extend-vc.php:6169
+#@ eltd
+msgid "Please insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: extendvc/extend-vc.php:6185
+#: extendvc/extend-vc.php:8093
+#@ eltd
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:109
+#@ eltd
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:128
+#@ eltd
+msgid "Important notes:"
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:130
+#@ eltd
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/content-import.php:131
+#@ eltd
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#: framework/admin/skins/elated/templates/header.php:16
+#@ eltd
+msgid "Save Changes"
+msgstr ""
+
+#: framework/lib/eltd.functions.php:590
+#@ eltd
+msgid ""
+"Note that writing permissions aren't set for folders containing css and js files on your server.\n"
+"\t\t\t\t\tWe recommend setting writing permissions in order to optimize your site performance.\n"
+"\t\t\t\t\tFor further instructions, please refer to our documentation."
+msgstr ""
+
+#: framework/lib/eltd.layout.php:690
+#: framework/lib/eltd.layout.php:691
+#: framework/lib/eltd.layout.php:2053
+#: framework/lib/eltd.layout.php:2054
+#: framework/lib/eltd.layout.php:2104
+#: framework/lib/eltd.layout.php:2105
+#: framework/lib/eltd.layout.php:2214
+#: framework/lib/eltd.layout.php:2215
+#: framework/lib/eltd.layout.php:2266
+#: framework/lib/eltd.layout.php:2267
+#: framework/lib/eltd.layout.php:2538
+#: framework/lib/eltd.layout.php:2539
+#: framework/lib/eltd.layout.php:2608
+#: framework/lib/eltd.layout.php:2609
+#@ eltd
+msgid "Select Image"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:691
+#: framework/lib/eltd.layout.php:1966
+#: framework/lib/eltd.layout.php:2054
+#: framework/lib/eltd.layout.php:2105
+#: framework/lib/eltd.layout.php:2215
+#: framework/lib/eltd.layout.php:2267
+#: framework/lib/eltd.layout.php:2539
+#: framework/lib/eltd.layout.php:2609
+#@ eltd
+msgid "Upload"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:693
+#: framework/lib/eltd.layout.php:2056
+#: framework/lib/eltd.layout.php:2107
+#: framework/lib/eltd.layout.php:2217
+#: framework/lib/eltd.layout.php:2269
+#: framework/lib/eltd.layout.php:2541
+#: framework/lib/eltd.layout.php:2611
+#: includes/nav_menu/edit_custom_walker.php:309
+#@ eltd
+msgid "Remove"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:997
+#: framework/lib/eltd.layout.php:1035
+#: framework/lib/eltd.layout.php:1135
+#: framework/lib/eltd.layout.php:1189
+#: framework/lib/eltd.layout.php:1295
+#: framework/lib/eltd.layout.php:1348
+#: framework/lib/eltd.layout.php:1401
+#: framework/lib/eltd.layout.php:1454
+#: framework/lib/eltd.layout.php:1507
+#: framework/lib/eltd.layout.php:1560
+#: widgets/eltd-call-to-action-widget.php:119
+#: widgets/eltd-call-to-action-widget.php:127
+#: widgets/eltd-call-to-action-widget.php:227
+#@ eltd
+msgid "Yes"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:999
+#: framework/lib/eltd.layout.php:1037
+#: framework/lib/eltd.layout.php:1137
+#: framework/lib/eltd.layout.php:1191
+#: framework/lib/eltd.layout.php:1297
+#: framework/lib/eltd.layout.php:1350
+#: framework/lib/eltd.layout.php:1403
+#: framework/lib/eltd.layout.php:1456
+#: framework/lib/eltd.layout.php:1509
+#: framework/lib/eltd.layout.php:1562
+#: widgets/eltd-call-to-action-widget.php:120
+#: widgets/eltd-call-to-action-widget.php:128
+#: widgets/eltd-call-to-action-widget.php:228
+#@ eltd
+msgid "No"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:1082
+#@ eltd
+msgid "On"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:1084
+#@ eltd
+msgid "Off"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:1242
+#@ eltd
+msgid "Image"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:1244
+#@ eltd
+msgid "Video"
+msgstr ""
+
+#: framework/lib/eltd.layout.php:1968
+#@ eltd
+msgid "Remove All"
+msgstr ""
+
+#: functions.php:677
+#@ eltd
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:684
+#@ eltd
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: functions.php:691
+#@ eltd
+msgid "Left Top Navigation"
+msgstr ""
+
+#: functions.php:697
+#@ eltd
+msgid "Right Top Navigation"
+msgstr ""
+
+#: header.php:416
+#: header.php:439
+#: header.php:841
+#: header.php:1007
+#: header.php:1026
+#@ eltd
+msgid "Search"
+msgstr ""
+
+#: header.php:1293
+#@ eltd
+msgid "Search:"
+msgstr ""
+
+#: includes/comment/comment.php:40
+#@ eltd
+msgid "Pingback:"
+msgstr ""
+
+#: includes/comment/comment.php:55
+#@ eltd
+msgid "at"
+msgstr ""
+
+#: includes/eltd-blog-functions.php:69
+#@ eltd
+msgid "Read More"
+msgstr ""
+
+#: includes/eltd-blog-functions.php:204
+#@ eltd
+msgid "Continue reading"
+msgstr ""
+
+#: includes/eltd-breadcrumbs.php:133
+#@ eltd
+msgid "Page"
+msgstr ""
+
+#: includes/eltd-like.php:116
+#: includes/eltd-like.php:128
+#: includes/eltd-like.php:140
+#@ eltd
+msgid "Like this"
+msgstr ""
+
+#: includes/eltd-like.php:119
+#@ eltd
+msgid "You already liked this!"
+msgstr ""
+
+#: includes/eltd-like.php:131
+#: includes/eltd-like.php:143
+#@ eltd
+msgid "You already like this!"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:136
+#: includes/import/class.wordpress-importer.php:187
+#: includes/import/class.wordpress-importer.php:191
+#: includes/import/class.wordpress-importer.php:200
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:171
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:171
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:172
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:192
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:208
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:233
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:259
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:260
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:262
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:272
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:275
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:292
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:303
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:306
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:314
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:316
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:317
+#@ wordpress-importer
+msgid "- Elated -"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:367
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:418
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:458
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:504
+#: includes/import/class.wordpress-importer.php:645
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:530
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:552
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:611
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:776
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:783
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:849
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:862
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:906
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:912
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:919
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:924
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:930
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1031
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1038
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1053
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1054
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/import/eltd-import.php:41
+#: includes/import/eltd-import.php:62
+#@ eltd
+msgid "Content imported successfully"
+msgstr ""
+
+#: includes/import/eltd-import.php:59
+#@ eltd
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: includes/import/eltd-import.php:66
+#@ eltd
+msgid "Error loading files"
+msgstr ""
+
+#: includes/import/eltd-import.php:77
+#@ eltd
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: includes/import/eltd-import.php:96
+#@ eltd
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: includes/import/eltd-import.php:102
+#@ eltd
+msgid "Options imported successfully"
+msgstr ""
+
+#: includes/import/parsers.php:42
+#: includes/import/parsers.php:78
+#: includes/import/parsers.php:86
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/import/parsers.php:43
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/import/parsers.php:90
+#: includes/import/parsers.php:95
+#: includes/import/parsers.php:285
+#: includes/import/parsers.php:474
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/nav_menu/edit_custom_walker.php:79
+#, php-format
+#@ eltd
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/nav_menu/edit_custom_walker.php:83
+#, php-format
+#@ eltd
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:107
+#@ eltd
+msgid "Move up"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:120
+#@ eltd
+msgid "Move down"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:122
+#: includes/nav_menu/edit_custom_walker.php:124
+#@ eltd
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:133
+#@ eltd
+msgid "URL"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:140
+#@ eltd
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:146
+#@ eltd
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:153
+#@ eltd
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:158
+#@ eltd
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:164
+#@ eltd
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:170
+#: woocommerce/single-product/short-description.php:22
+#@ eltd
+msgid "Description"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:172
+#@ eltd
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:180
+#@ eltd
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:191
+#@ eltd
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:201
+#@ eltd
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:216
+#@ eltd
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:234
+#@ eltd
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:240
+#@ eltd
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:255
+#@ eltd
+msgid "Icon"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:276
+#@ eltd
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:287
+#@ eltd
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:296
+#, php-format
+#@ eltd
+msgid "Original: %s"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:310
+#: woocommerce/myaccount/my-orders.php:75
+#@ eltd
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:155
+#: includes/plugins/eltd-cpt.php:53
+#: includes/plugins/layer-slider.php:62
+#: includes/plugins/visual-composer.php:52
+#@ tgmpa
+#@ eltd
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:156
+#: includes/plugins/eltd-cpt.php:54
+#: includes/plugins/layer-slider.php:63
+#: includes/plugins/visual-composer.php:53
+#@ tgmpa
+#@ eltd
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:157
+#: includes/plugins/eltd-cpt.php:55
+#: includes/plugins/layer-slider.php:64
+#: includes/plugins/visual-composer.php:54
+#, php-format
+#@ tgmpa
+#@ eltd
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:159
+#: includes/plugins/eltd-cpt.php:57
+#: includes/plugins/layer-slider.php:66
+#: includes/plugins/visual-composer.php:56
+#, php-format
+#@ eltd
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:160
+#: includes/plugins/eltd-cpt.php:58
+#: includes/plugins/layer-slider.php:67
+#: includes/plugins/visual-composer.php:57
+#, php-format
+#@ eltd
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:161
+#: includes/plugins/eltd-cpt.php:59
+#: includes/plugins/layer-slider.php:68
+#: includes/plugins/visual-composer.php:58
+#, php-format
+#@ eltd
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:162
+#: includes/plugins/eltd-cpt.php:60
+#: includes/plugins/layer-slider.php:69
+#: includes/plugins/visual-composer.php:59
+#, php-format
+#@ eltd
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:163
+#: includes/plugins/eltd-cpt.php:61
+#: includes/plugins/layer-slider.php:70
+#: includes/plugins/visual-composer.php:60
+#, php-format
+#@ eltd
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:164
+#: includes/plugins/eltd-cpt.php:62
+#: includes/plugins/layer-slider.php:71
+#: includes/plugins/visual-composer.php:61
+#, php-format
+#@ eltd
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:165
+#: includes/plugins/eltd-cpt.php:63
+#: includes/plugins/layer-slider.php:72
+#: includes/plugins/visual-composer.php:62
+#, php-format
+#@ eltd
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:166
+#: includes/plugins/eltd-cpt.php:64
+#: includes/plugins/layer-slider.php:73
+#: includes/plugins/visual-composer.php:63
+#, php-format
+#@ eltd
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:167
+#: includes/plugins/eltd-cpt.php:65
+#: includes/plugins/layer-slider.php:74
+#: includes/plugins/visual-composer.php:64
+#@ eltd
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:168
+#: includes/plugins/eltd-cpt.php:66
+#: includes/plugins/layer-slider.php:75
+#: includes/plugins/visual-composer.php:65
+#@ eltd
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:169
+#: includes/plugins/eltd-cpt.php:67
+#: includes/plugins/layer-slider.php:76
+#: includes/plugins/visual-composer.php:66
+#@ tgmpa
+#@ eltd
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:171
+#: includes/plugins/class-tgm-plugin-activation.php:1840
+#: includes/plugins/eltd-cpt.php:68
+#: includes/plugins/layer-slider.php:77
+#: includes/plugins/visual-composer.php:67
+#@ tgmpa
+#@ eltd
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1294
+#: woocommerce/myaccount/my-orders.php:34
+#@ tgmpa
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/plugins/class-tgm-plugin-activation.php:1538
+#: includes/plugins/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/eltd-cpt.php:56
+#: includes/plugins/layer-slider.php:65
+#: includes/plugins/visual-composer.php:55
+#@ eltd
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/eltd-cpt.php:69
+#: includes/plugins/layer-slider.php:78
+#: includes/plugins/visual-composer.php:68
+#, php-format
+#@ eltd
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3005
+#: includes/shortcodes/shortcodes.php:3141
+#: includes/shortcodes/shortcodes.php:3251
+#: includes/shortcodes/shortcodes.php:3359
+#@ eltd
+msgid "No comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3008
+#: includes/shortcodes/shortcodes.php:3144
+#: includes/shortcodes/shortcodes.php:3254
+#: includes/shortcodes/shortcodes.php:3362
+#: templates/blog/parts/post-info-comments.php:1
+#@ eltd
+msgid "Comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3011
+#: includes/shortcodes/shortcodes.php:3147
+#: includes/shortcodes/shortcodes.php:3257
+#: includes/shortcodes/shortcodes.php:3365
+#: templates/blog/parts/post-info-comments.php:1
+#@ eltd
+msgid "Comments"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3025
+#: includes/shortcodes/shortcodes.php:3169
+#: includes/shortcodes/shortcodes.php:3271
+#: includes/shortcodes/shortcodes.php:3379
+#: includes/shortcodes/shortcodes.php:6649
+#: templates/blog/parts/post-info-category.php:1
+#@ eltd
+msgid "in "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3036
+#: includes/shortcodes/shortcodes.php:3160
+#: includes/shortcodes/shortcodes.php:3282
+#: includes/shortcodes/shortcodes.php:3390
+#: templates/blog/parts/post-info-author.php:1
+#@ eltd
+msgid "by"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4656
+#@ eltd
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4808
+#@ eltd
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4824
+#@ eltd
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4836
+#@ eltd
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4848
+#@ eltd
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4860
+#@ eltd
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4873
+#@ eltd
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4886
+#@ eltd
+msgid "Share on VK"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6645
+#@ eltd
+msgid "by "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6747
+#@ eltd
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:18
+#@ eltd
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:42
+#@ eltd
+msgid ""
+"Enter Name of the\n"
+"\t\t\tnew Widget Area"
+msgstr ""
+
+#: includes/sidebar/eltd-custom-sidebar.php:44
+#@ eltd
+msgid "Add Widget Area"
+msgstr ""
+
+#: js/default_dynamic.php:20
+#@ eltd
+msgid "Comment has been sent!"
+msgstr ""
+
+#: js/default_dynamic.php:127
+#@ eltd
+msgid "Loading new posts..."
+msgstr ""
+
+#: js/default_dynamic.php:129
+#@ eltd
+msgid "No more posts"
+msgstr ""
+
+#: searchform.php:3
+#@ eltd
+msgid "Search Here"
+msgstr ""
+
+#: templates/blog/blog-structure.php:171
+#: templates/blog/blog-structure.php:175
+#@ eltd
+msgid "Show more"
+msgstr ""
+
+#: templates/blog/blog_masonry-loop.php:131
+#: templates/blog/blog_single/blog_standard_type_single-loop.php:142
+#: templates/blog/blog_standard-loop.php:140
+#: templates/blog/blog_standard_whole_post-loop.php:140
+#@ eltd
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: templates/blog/blog_search-loop.php:27
+#@ eltd
+msgid "In"
+msgstr ""
+
+#: templates/blog/blog_search-loop.php:33
+#@ eltd
+msgid "By"
+msgstr ""
+
+#: templates/blog/blog_single-loop.php:35
+#@ eltd
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog/blog_vertical-loop.php:128
+#: templates/blog/blog_vertical-loop.php:192
+#: templates/blog/blog_vertical-loop.php:263
+#: templates/blog/blog_vertical-loop.php:328
+#: templates/blog/blog_vertical-loop.php:403
+#: templates/blog/blog_vertical-loop.php:464
+#@ eltd
+msgid "Post a comment"
+msgstr ""
+
+#: templates/blog/masonry-filter.php:51
+#@ eltd
+msgid "Sort Blog:"
+msgstr ""
+
+#: templates/blog/masonry-filter.php:53
+#@ eltd
+msgid "All"
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-categories.php:43
+#@ eltd
+msgid "Category "
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-date.php:38
+#: woocommerce/myaccount/my-orders.php:33
+#@ eltd
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: templates/portfolio/parts/portfolio-tags.php:38
+#@ eltd
+msgid "Tags"
+msgstr ""
+
+#: title.php:577
+#@ eltd
+msgid "Author:"
+msgstr ""
+
+#: title.php:583
+#@ eltd
+msgid "Results for"
+msgstr ""
+
+#: title.php:588
+#@ eltd
+msgid "404 - Page not found"
+msgstr ""
+
+#: title.php:601
+#@ eltd
+msgid "Archive"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+#@ js_composer
+msgid "Accordion Title"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:34
+#: vc_templates/vc_tab.php:35
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_flickr.php:24
+#@ js_composer
+msgid "View stream on flickr"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:170
+#@ js_composer
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:170
+#@ js_composer
+msgid "Next slide"
+msgstr ""
+
+#: vc_templates/vc_text_separator.php:4
+#@ js_composer
+msgid "Title"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:8
+#@ eltd
+msgid "Elated Call to Action Widget"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:117
+#@ eltd
+msgid "Full Width:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:125
+#@ eltd
+msgid "Content In Grid:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:133
+#@ eltd
+msgid "Grid Size:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:135
+#@ eltd
+msgid "75/25"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:136
+#@ eltd
+msgid "50/50"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:137
+#@ eltd
+msgid "66"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:142
+#@ eltd
+msgid "Type:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:144
+#@ eltd
+msgid "Normal"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:145
+#@ eltd
+msgid "With Icon"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:146
+#@ eltd
+msgid "With Custom Icon"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:153
+#@ eltd
+msgid "Icon Pack:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:173
+#@ eltd
+msgid "Icon:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:185
+#@ eltd
+msgid "Icon Position:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:187
+#@ eltd
+msgid "Default/Top"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:188
+#@ eltd
+msgid "Middle"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:189
+#@ eltd
+msgid "Bottom"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:194
+#@ eltd
+msgid "Icon Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:200
+#@ eltd
+msgid "Custom Icon:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:205
+#@ eltd
+msgid "Icon Size:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:210
+#@ eltd
+msgid "Background Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:215
+#@ eltd
+msgid "Border Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:220
+#@ eltd
+msgid "Box padding (top right bottom left) px"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:225
+#@ eltd
+msgid "Show Button:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:233
+#@ eltd
+msgid "Button position:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:235
+#@ eltd
+msgid "Right"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:236
+#@ eltd
+msgid "Center"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:237
+#@ eltd
+msgid "Left"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:247
+#@ eltd
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:252
+#@ eltd
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:257
+#@ eltd
+msgid "Button Target:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:267
+#@ eltd
+msgid "Button Text Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:272
+#@ eltd
+msgid "Button Hover Text Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:277
+#@ eltd
+msgid "Button Background Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:282
+#@ eltd
+msgid "Button Hover Background Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:287
+#@ eltd
+msgid "Button Border Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:292
+#@ eltd
+msgid "Button Hover Border Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:297
+#@ eltd
+msgid "Button Border Width"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:303
+#@ eltd
+msgid "Button Radius"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:308
+#@ eltd
+msgid "Text:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:313
+#@ eltd
+msgid "Text Color:"
+msgstr ""
+
+#: widgets/eltd-call-to-action-widget.php:318
+#@ eltd
+msgid "Text Size:"
+msgstr ""
+
+#: widgets/eltd-latest-posts-widget.php:9
+#@ eltd
+msgid "Display posts from your blog"
+msgstr ""
+
+#: widgets/eltd-sticky-sidebar.php:8
+#@ eltd
+msgid "Use this widget to make the sidebar sticky. Drag it into the sidebar above the widget which you want to be the first element in the sticky sidebar."
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:8
+#@ eltd
+msgid "Elated Woocommerce Dropdown Cart"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:42
+#: widgets/eltd-woocommerce-dropdown-cart.php:47
+#: widgets/eltd-woocommerce-dropdown-cart.php:185
+#: widgets/eltd-woocommerce-dropdown-cart.php:190
+#@ eltd
+msgid "Cart"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:96
+#: widgets/eltd-woocommerce-dropdown-cart.php:236
+#@ eltd
+msgid "Quantity: "
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:100
+#: widgets/eltd-woocommerce-dropdown-cart.php:241
+#: woocommerce/cart/cart.php:47
+#@ eltd
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:109
+#: widgets/eltd-woocommerce-dropdown-cart.php:250
+#: woocommerce/cart/cart.php:30
+#: woocommerce/myaccount/my-orders.php:35
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:120
+#: widgets/eltd-woocommerce-dropdown-cart.php:261
+#@ woocommerce
+msgid "Shopping Bag"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:121
+#: widgets/eltd-woocommerce-dropdown-cart.php:262
+#@ woocommerce
+msgid "Checkout"
+msgstr ""
+
+#: widgets/eltd-woocommerce-dropdown-cart.php:126
+#: widgets/eltd-woocommerce-dropdown-cart.php:267
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:23
+#@ woocommerce
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:20
+#, php-format
+#@ woocommerce
+msgid "Shipping #%d"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:22
+#@ woocommerce
+msgid "Shipping and Handling"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:59
+#@ woocommerce
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:63
+#@ woocommerce
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+#@ woocommerce
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:76
+#: woocommerce/cart/cart-shipping.php:82
+#@ woocommerce
+msgid "There don&lsquo;t seem to be available shipping methods. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:97
+#: woocommerce/cart/cart-totals.php:46
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:84
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#: woocommerce/checkout/form-coupon.php:28
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+#@ woocommerce
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:22
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+#@ woocommerce
+msgid "Enter coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:18
+#@ woocommerce
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:22
+#@ woocommerce
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+#@ woocommerce
+msgid "If you have shopped with us before, please enter your details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:68
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:77
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:28
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:24
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:31
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:83
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:45
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40
+#@ woocommerce
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:43
+#: woocommerce/myaccount/form-login.php:48
+#@ woocommerce
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:17
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:24
+#@ woocommerce
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "%1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:32
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:35
+#: woocommerce/myaccount/form-lost-password.php:36
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-change-password.php:25
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:96
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/single-product-reviews.php:61
+#: woocommerce/woocommerce_configuration.php:99
+#@ woocommerce
+#@ eltd
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#@ woocommerce
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:32
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:59
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:81
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:27
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:62
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:93
+#@ woocommerce
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+#@ woocommerce
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+#@ woocommerce
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:28
+#@ woocommerce
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:43
+#@ woocommerce
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:36
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:41
+#@ woocommerce
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:54
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+#, php-format
+#@ woocommerce
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:59
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#@ woocommerce
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#@ woocommerce
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:95
+#: woocommerce/woocommerce_configuration.php:106
+#@ eltd
+msgid "First name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:96
+#: woocommerce/woocommerce_configuration.php:107
+#@ eltd
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:97
+#: woocommerce/woocommerce_configuration.php:108
+#@ eltd
+msgid "Company name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:98
+#: woocommerce/woocommerce_configuration.php:109
+#@ eltd
+msgid "Address"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:100
+#@ eltd
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:101
+#: woocommerce/woocommerce_configuration.php:110
+#@ eltd
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:247
+#@ woocommerce
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:248
+#@ woocommerce
+msgid "Search Products"
+msgstr ""
+

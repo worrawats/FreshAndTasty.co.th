@@ -1,0 +1,82 @@
+1.6
+- Added WooCommerce 2.4.12 compatibility
+- Updated Visual Composer to 4.9.1
+- Fixed spacing issue causing 404 error in WP admin
+- Fixed Google Map Warning for Sensor parameter no longer being required
+- Fixed bug with Portfolio List Columns option
+- Fixed bug with Elated Carousel Number of items showing option
+- Fixed issue with Blockquote element now rendering default blockquote text
+- Fixed Lightbox for Vimeo Videos bug in Single Portfolio
+
+1.5.2
+- Updated Visual Composer to 4.7.4
+- Updated Layer Slider to 5.6.2
+
+1.5.1
+- Fixed issue with saving values in Countdown
+- Fixed issue with VC Text Block
+
+1.5
+- Added WooCommerce 2.4.6 compatibility
+- Added new option for title height on single post
+- Updated Visual Composer to 4.6.2
+- Updated Layer Slider to 5.5.1
+- Updated Font Awesome to version 4.4.0
+- Fixed bug with title options in single product pages
+
+1.4
+- Added Behance icon in Social Icons shortcode for Font Awesome icon pack
+- Added singular labels option to countdown shortcode
+- Updated Visual Composer to 4.5.3
+- Updated Elated CPT plugin to version 1.0.3
+- Updated Google Fonts
+- Updated prettyPhoto to 3.1.6
+- Fixed issue with rendering Image style in Single Image shortcode
+- Fixed bug with wide menu
+- Fixed issue with Order By option for Carousel shortcode
+- Fixed Flexslider bug with Vertical Split Slider
+- Fixed SSL issues with embeded media
+- Fixed bug with prettyPhoto
+- Fixed issue with Dark/Light Menu Active Text Color
+
+1.3
+- Added WooCommerce 2.3.10 compatibility
+- Added support for WPML language switcher in main menu
+- Updated Visual Composer to 4.5.2
+- Updated Elated CPT plugin to version 1.0.2
+- Updated language files in Elated CPT plugin
+- Fixed Portfolio List - Pinterest With Image Only bug with its filter
+- Fixed loading image appearing bug for Elated Slider
+- Fixed dependency and upload for video post format fields
+- Fixed issue with accordion
+- Removed fix for Yoast SEO page analysis
+- Fixed bug with title for tab shortcode
+
+1.2
+- Updated Visual Composer to 4.5.1
+- Updated Layer Slider to 5.4.0
+- Fixed blog css classes in search.php template
+- Fixed incompatibility between page transitions and Yoast SEO plugin
+- Fixed issue with Yoast SEO plugin and Elated meta boxes not saving values. Page analysis functionality has been disabled due to coding issue in plugin.
+
+1.1.1
+- Fixed issue with Elated carousel function call with WordPress 4.2
+
+1.1
+- Added WooCommerce 2.3.8 compatibility
+- Added Performance Improvements
+- Updated Visual Composer plugin to version 4.4.4
+- Updated Elated CPT plugin to version 1.0.1
+- Updated TGM Plugin Activation class (security vulnerability fixed)
+- Fixed bug with pricing table shortcode
+- Fixed responsiveness of header on small screens when layout is boxed
+- Fixed links style for blog slider
+- Fixed image gallery navigation style
+- Fixed vertical menu - slide for touch devices
+- Fixed responsiveness of elements folding on Blog List - Boxes type
+- Fixed side menu opacity
+- Fixed theme seo options in posts, pages, portfolio
+- Fixed info box style for portfolio list
+- Changed fullscreen menu middle click behavior
+- Landing Page template issue fixed
+- Fixed bug with toolbar Edit Page button and ajax

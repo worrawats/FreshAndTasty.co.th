@@ -1,0 +1,72 @@
+0000.002 () Opened log file at time: Mon, 20 Jun 2016 12:42:50 +0000 on http://freshandtasty.co.th
+0000.002 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.13 WP: 4.5.2 PHP: 5.3.29 (Linux bs1.hostinglotus.net 2.6.32-573.22.1.el6.x86_64 #1 SMP Wed Mar 23 03:35:39 UTC 2016 x86_64) MySQL: 5.5.5 WPLANG: th Server: Apache/2 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 84.8M | 85.3M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.002 () Free space on disk containing Updraft's temporary directory: 364402.8 MB
+0000.003 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.012 () Entity: db
+0000.012 () restore_backup(backup_file=backup_2016-06-16-2332_freshandtastycoth_567281d949de-db.gz, type=db, info=a:0:{}, last_one=)
+0000.012 () Unpacking backup...
+0000.013 () Database successfully unpacked
+0000.013 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.013 () Using direct MySQL access; value of use_mysqli is: 0
+0000.014 () Max packet size: 128 MB
+0000.014 () Entering maintenance mode
+0000.014 () เปิดใช้โหมดซ่อมบำรุง&#8230;
+0000.015 () <strong>Backup of:</strong> http://freshandtasty.co.th
+0000.015 () Content URL: http://freshandtasty.co.th/wp-content
+0000.016 () Uploads URL: http://freshandtasty.co.th/wp-content/uploads
+0000.016 () Old table prefix: wp_
+0000.016 () Site information: multisite=0
+0000.017 () New table prefix: wp_
+0000.020 () Restoring table (InnoDB): wp_options
+0000.086 () Restoring prior UD configuration (table: wp_options; keys: 3)
+0000.090 () Restoring table (InnoDB): wp_users
+0000.098 () Restoring table (InnoDB): wp_usermeta
+0000.108 () Restoring table (InnoDB): wp_commentmeta
+0000.115 () Restoring table (InnoDB): wp_comments
+0000.124 () Restoring table (InnoDB): wp_links
+0000.131 () Restoring table (InnoDB): wp_postmeta
+0000.425 () Restoring table (InnoDB): wp_posts
+0000.566 () Restoring table (InnoDB): wp_term_relationships
+0000.580 () Restoring table (InnoDB): wp_term_taxonomy
+0000.591 () Restoring table (InnoDB): wp_termmeta
+0000.598 () Restoring table (InnoDB): wp_terms
+0000.608 () Restoring table (InnoDB): wp_layerslider
+0000.611 () Database queries processed: 50 in 0.60 seconds
+0000.611 () Unlocking database and leaving maintenance mode
+0000.611 () เลิกใช้โหมดซ่อมบำรุง&#8230;
+0000.611 () Finished: lines processed: 50 in 0.60 seconds
+0000.611 () Cleaning up rubbish...
+0000.616 () Entity: plugins
+0000.616 () restore_backup(backup_file=backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:73:"/home/freshan1/domains/freshandtasty.co.th/public_html/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.616 () Unpacking backup... (backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip, 18.4 Mb)
+0001.319 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.319 () Moving old data: can potentially use wp_filesystem method / -old
+0001.319 () Moving old data out of the way...
+0002.241 () Top-level entities being moved: google-analytics-for-wordpress, LayerSlider, contact-form-7, no-comments, js_composer, hello.php, all-in-one-seo-pack, updraftplus, akismet, eltd-cpt, index.php
+0002.248 () Moving unpacked backup into place...
+0003.287 () Top-level entities being moved: google-analytics-for-wordpress, LayerSlider, contact-form-7, no-comments, js_composer, hello.php, all-in-one-seo-pack, updraftplus, akismet, eltd-cpt, index.php
+0003.294 () Cleaning up rubbish...
+0003.296 () Entity: themes
+0003.296 () restore_backup(backup_file=backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip, type=themes, info=a:2:{s:4:"path";s:72:"/home/freshan1/domains/freshandtasty.co.th/public_html/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0003.297 () Unpacking backup... (backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip, 18.7 Mb)
+0003.614 () Moving old data: filesystem method / updraft_dir is potentially possible
+0003.614 () Moving old data: can potentially use wp_filesystem method / -old
+0003.614 () Moving old data out of the way...
+0003.901 () Top-level entities being moved: twentyfourteen, twentyfifteen, borderland, twentythirteen, m4u, index.php
+0003.904 () Moving unpacked backup into place...
+0004.213 () Top-level entities being moved: twentyfourteen, twentyfifteen, borderland, twentythirteen, m4u, index.php
+0004.216 () Cleaning up rubbish...
+0004.218 () Entity: uploads
+0004.218 () restore_backup(backup_file=backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:73:"/home/freshan1/domains/freshandtasty.co.th/public_html/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0004.218 () Unpacking backup... (backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip, 282.5 Mb)
+0006.135 () Moving old data: filesystem method / updraft_dir is potentially possible
+0006.135 () Moving old data: can potentially use wp_filesystem method / -old
+0006.135 () Moving old data out of the way...
+0006.648 () Moving unpacked backup into place...
+0007.266 () Cleaning up rubbish...
+0007.268 () Entity: others
+0007.268 () restore_backup(backup_file=backup_2016-06-16-2332_freshandtastycoth_567281d949de-others.zip, type=others, info=a:2:{s:4:"path";s:65:"/home/freshan1/domains/freshandtasty.co.th/public_html/wp-content";s:11:"description";s:6:"Others";}, last_one=1)
+0007.268 () Unpacking backup... (backup_2016-06-16-2332_freshandtastycoth_567281d949de-others.zip, 0.5 Mb)
+0007.281 () Cleaning up rubbish...
+0007.289 () Restore successful!
+0007.289 () Restore successful

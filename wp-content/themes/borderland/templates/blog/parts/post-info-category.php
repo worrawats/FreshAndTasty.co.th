@@ -1,0 +1,1 @@
+<div class="post_category"><?php _e('in ','eltd'); ?><?php the_category(', '); ?></div>

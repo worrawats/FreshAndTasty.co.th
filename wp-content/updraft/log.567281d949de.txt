@@ -1,0 +1,210 @@
+0000.000 (0) Opened log file at time: Thu, 16 Jun 2016 16:32:59 +0000 on http://freshandtasty.co.th
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.13 WP: 4.4.3 PHP: 5.3.29 (Linux bs1.hostinglotus.net 2.6.32-573.22.1.el6.x86_64 #1 SMP Wed Mar 23 03:35:39 UTC 2016 x86_64) MySQL: 5.5.5 WPLANG: th Server: Apache/2 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 84.1M | 84.5M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.001 (0) Free space on disk containing Updraft's temporary directory: 368597.3 MB
+0000.003 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.006 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.007 (0) Set semaphore last lock (fd) time to 2016-06-16 16:32:59
+0000.007 (0) Semaphore lock (fd) complete
+0000.010 (0) Backup run: resumption=0, nonce=567281d949de, begun at=1466094779 (0s ago), job type=backup
+0000.011 (0) Scheduling a resumption (1) after 300 seconds (1466095079) in case this run gets aborted
+0000.018 (0) Checking if we have a zip executable available
+0000.020 (0) Creation of backups of directories: beginning
+0000.022 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.831 (0) Total entities for the zip file: 538 directories, 2979 files (0 skipped as non-modified), 47 MB
+0000.851 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.869 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.891 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.908 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.925 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.926 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.1 MB, 2979 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.323 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 600 files added (on-disk size: 6949.8 KB)
+0001.339 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 700 files added (on-disk size: 6949.8 KB)
+0001.359 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 800 files added (on-disk size: 6949.8 KB)
+0001.378 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 900 files added (on-disk size: 6949.8 KB)
+0001.397 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1000 files added (on-disk size: 6949.8 KB)
+0001.398 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.9 MB, 2979 files batched, 501 (1002) added so far); re-opening (prior size: 6949.8 KB)
+0001.943 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1100 files added (on-disk size: 8905.2 KB)
+0001.973 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1200 files added (on-disk size: 8905.2 KB)
+0001.996 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1300 files added (on-disk size: 8905.2 KB)
+0002.017 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1400 files added (on-disk size: 8905.2 KB)
+0002.041 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1500 files added (on-disk size: 8905.2 KB)
+0002.043 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.3 MB, 2979 files batched, 501 (1503) added so far); re-opening (prior size: 8905.2 KB)
+0002.508 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1600 files added (on-disk size: 10614.9 KB)
+0002.530 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1700 files added (on-disk size: 10614.9 KB)
+0002.549 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1800 files added (on-disk size: 10614.9 KB)
+0002.566 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 1900 files added (on-disk size: 10614.9 KB)
+0002.584 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2000 files added (on-disk size: 10614.9 KB)
+0002.585 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18 MB, 2979 files batched, 501 (2004) added so far); re-opening (prior size: 10614.9 KB)
+0003.892 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2100 files added (on-disk size: 16700.8 KB)
+0003.912 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2200 files added (on-disk size: 16700.8 KB)
+0003.939 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2300 files added (on-disk size: 16700.8 KB)
+0003.967 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2400 files added (on-disk size: 16700.8 KB)
+0003.993 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2500 files added (on-disk size: 16700.8 KB)
+0003.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 2979 files batched, 501 (2505) added so far); re-opening (prior size: 16700.8 KB)
+0004.347 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2600 files added (on-disk size: 18257.9 KB)
+0004.377 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2700 files added (on-disk size: 18257.9 KB)
+0004.407 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2800 files added (on-disk size: 18257.9 KB)
+0004.437 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip.tmp: 2900 files added (on-disk size: 18257.9 KB)
+0004.736 (0) Created plugins zip (0) - 18874.4 KB in 4.7 s (4005.6 KB/s) (SHA1 checksum: c4ddbd3b7aeda87f35d0ac80b36f7737dd84c343)
+0004.737 (0) Beginning creation of dump of themes (split every: 400 MB)
+0004.977 (0) Total entities for the zip file: 179 directories, 1015 files (0 skipped as non-modified), 33 MB
+0004.994 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0005.008 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0005.024 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0005.040 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0005.057 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0005.058 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.5 MB, 1015 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0005.562 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 600 files added (on-disk size: 4441.9 KB)
+0005.584 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 700 files added (on-disk size: 4441.9 KB)
+0005.599 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 800 files added (on-disk size: 4441.9 KB)
+0005.615 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 900 files added (on-disk size: 4441.9 KB)
+0005.630 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip.tmp: 1000 files added (on-disk size: 4441.9 KB)
+0005.631 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (23.1 MB, 1015 files batched, 501 (1002) added so far); re-opening (prior size: 4441.9 KB)
+0006.852 (0) Created themes zip (0) - 19199 KB in 2.1 s (9083.4 KB/s) (SHA1 checksum: f824001507800457d2cdc3ba9a139b99693e54ef)
+0006.854 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0006.855 (0) Looking for candidates to back up in: /home/freshan1/domains/freshandtasty.co.th/public_html/wp-content/uploads
+0006.856 (0) finding files: 2016: adding to list (1)
+0006.856 (0) finding files: js_composer: adding to list (2)
+0006.857 (0) finding files: 2015: adding to list (3)
+0006.857 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0007.277 (0) Total entities for the zip file: 10 directories, 2836 files (0 skipped as non-modified), 286.8 MB
+0007.293 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0007.307 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0007.323 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0007.337 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.7 MB, 2836 files batched, 391 (391) added so far); re-opening (prior size: 0 KB)
+0008.182 (0) A useful amount of data was added after this amount of zip processing: 1.9 s (normalised: 1.9 s, rate: 13622.2 KB/s)
+0008.183 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.9291820526123, normalised_time=1.8792800919166, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=83695028)
+0008.188 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 400 files added (on-disk size: 25466.5 KB)
+0008.206 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 500 files added (on-disk size: 25466.5 KB)
+0008.221 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 600 files added (on-disk size: 25466.5 KB)
+0008.237 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 700 files added (on-disk size: 25466.5 KB)
+0008.254 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 800 files added (on-disk size: 25466.5 KB)
+0008.269 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (56.5 MB, 2836 files batched, 501 (892) added so far); re-opening (prior size: 25466.5 KB)
+0010.196 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 900 files added (on-disk size: 81968.3 KB)
+0010.210 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1000 files added (on-disk size: 81968.3 KB)
+0010.225 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1100 files added (on-disk size: 81968.3 KB)
+0010.240 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1200 files added (on-disk size: 81968.3 KB)
+0010.256 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1300 files added (on-disk size: 81968.3 KB)
+0010.273 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (53.8 MB, 2836 files batched, 501 (1393) added so far); re-opening (prior size: 81968.3 KB)
+0012.261 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1400 files added (on-disk size: 136422.6 KB)
+0012.277 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1500 files added (on-disk size: 136422.6 KB)
+0012.293 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1600 files added (on-disk size: 136422.6 KB)
+0012.310 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1700 files added (on-disk size: 136422.6 KB)
+0012.326 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1800 files added (on-disk size: 136422.6 KB)
+0012.345 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (52.7 MB, 2836 files batched, 501 (1894) added so far); re-opening (prior size: 136422.6 KB)
+0014.950 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 1900 files added (on-disk size: 189918.4 KB)
+0014.966 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2000 files added (on-disk size: 189918.4 KB)
+0014.984 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2100 files added (on-disk size: 189918.4 KB)
+0015.001 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2200 files added (on-disk size: 189918.4 KB)
+0015.019 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2300 files added (on-disk size: 189918.4 KB)
+0015.036 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (59.2 MB, 2836 files batched, 501 (2395) added so far); re-opening (prior size: 189918.4 KB)
+0018.197 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2400 files added (on-disk size: 249887.5 KB)
+0018.220 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2500 files added (on-disk size: 249887.5 KB)
+0018.239 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2600 files added (on-disk size: 249887.5 KB)
+0018.257 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2700 files added (on-disk size: 249887.5 KB)
+0018.276 (0) Zip: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip.tmp: 2800 files added (on-disk size: 249887.5 KB)
+0021.455 (0) Created uploads zip (0) - 289288.3 KB in 14.6 s (19818.9 KB/s) (SHA1 checksum: dffa90df42b46a6b933b0dbf08134d0c24f186f2)
+0021.457 (0) Beginning backup of other directories found in the content directory (index: 0)
+0021.457 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0021.458 (0) Looking for candidates to back up in: /home/freshan1/domains/freshandtasty.co.th/public_html/wp-content
+0021.459 (0) finding files: upgrade: skipping: excluded by options
+0021.459 (0) finding files: updraft: skipping: this is the updraft directory
+0021.460 (0) finding files: themes: skipping: this is the themes directory
+0021.460 (0) finding files: uploads: skipping: this is the uploads directory
+0021.460 (0) finding files: languages: adding to list (1)
+0021.461 (0) finding files: plugins: skipping: this is the plugins directory
+0021.461 (0) finding files: index.php: adding to list (2)
+0021.466 (0) Total entities for the zip file: 3 directories, 19 files (0 skipped as non-modified), 2 MB
+0021.722 (0) Created others zip (0) - 475.9 KB in 0.3 s (1837.5 KB/s) (SHA1 checksum: 02939c02a4baa1ef945eab1f2e5b0c8fe3318f45)
+0021.724 (0) Saving backup status to database (elements: 8)
+0021.726 (0) Beginning creation of database dump (WordPress DB)
+0021.729 (0) Table wp_options: Total expected rows (approximate): 238
+0021.750 (0) Table wp_options: Total rows added: 241 in 0.02 seconds
+0021.751 (0) Table wp_options: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_options.table.gz - 117.4 KB)
+0021.754 (0) Table wp_users: Total expected rows (approximate): 0
+0021.755 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0021.756 (0) Table wp_users: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_users.table.gz - 0.6 KB)
+0021.758 (0) Table wp_usermeta: Total expected rows (approximate): 61
+0021.760 (0) Table wp_usermeta: Total rows added: 70 in 0.00 seconds
+0021.761 (0) Table wp_usermeta: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_usermeta.table.gz - 2.5 KB)
+0021.769 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0021.771 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0021.772 (0) Table wp_commentmeta: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0021.774 (0) Table wp_comments: Total expected rows (approximate): 0
+0021.776 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0021.776 (0) Table wp_comments: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_comments.table.gz - 0.5 KB)
+0021.779 (0) Table wp_links: Total expected rows (approximate): 0
+0021.780 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0021.781 (0) Table wp_links: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_links.table.gz - 0.4 KB)
+0021.783 (0) Table wp_postmeta: Total expected rows (approximate): 3395
+0021.833 (0) Table wp_postmeta: Total rows added: 3896 in 0.05 seconds
+0021.834 (0) Table wp_postmeta: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_postmeta.table.gz - 63.9 KB)
+0021.836 (0) Table wp_posts: Total expected rows (approximate): 883
+0021.912 (0) Table wp_posts: Total rows added: 846 in 0.08 seconds
+0021.914 (0) Table wp_posts: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_posts.table.gz - 133.3 KB)
+0021.916 (0) Table wp_term_relationships: Total expected rows (approximate): 138
+0021.918 (0) Table wp_term_relationships: Total rows added: 172 in 0.00 seconds
+0021.919 (0) Table wp_term_relationships: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_term_relationships.table.gz - 0.8 KB)
+0021.921 (0) Table wp_term_taxonomy: Total expected rows (approximate): 70
+0021.924 (0) Table wp_term_taxonomy: Total rows added: 69 in 0.00 seconds
+0021.925 (0) Table wp_term_taxonomy: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_term_taxonomy.table.gz - 0.9 KB)
+0021.928 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0021.929 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0021.930 (0) Table wp_termmeta: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_termmeta.table.gz - 0.3 KB)
+0021.932 (0) Table wp_terms: Total expected rows (approximate): 67
+0021.934 (0) Table wp_terms: Total rows added: 69 in 0.00 seconds
+0021.935 (0) Table wp_terms: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_terms.table.gz - 1.8 KB)
+0021.937 (0) Table wp_layerslider: Total expected rows (approximate): 0
+0021.939 (0) Table wp_layerslider: Total rows added: 1 in 0.00 seconds
+0021.940 (0) Table wp_layerslider: finishing file (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_layerslider.table.gz - 1.3 KB)
+0021.942 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_options.table.gz (1/13): adding to final database dump
+0021.961 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_users.table.gz (2/13): adding to final database dump
+0021.962 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_usermeta.table.gz (3/13): adding to final database dump
+0021.964 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_commentmeta.table.gz (4/13): adding to final database dump
+0021.964 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_comments.table.gz (5/13): adding to final database dump
+0021.965 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_links.table.gz (6/13): adding to final database dump
+0021.966 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_postmeta.table.gz (7/13): adding to final database dump
+0021.993 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_posts.table.gz (8/13): adding to final database dump
+0022.029 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_term_relationships.table.gz (9/13): adding to final database dump
+0022.031 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_term_taxonomy.table.gz (10/13): adding to final database dump
+0022.032 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_termmeta.table.gz (11/13): adding to final database dump
+0022.032 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_terms.table.gz (12/13): adding to final database dump
+0022.034 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db-table-wp_layerslider.table.gz (13/13): adding to final database dump
+0022.034 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db.gz: finished writing out complete database file (304 KB)
+0022.038 (0) Total database tables backed up: 13 (backup_2016-06-16-2332_freshandtastycoth_567281d949de-db.gz, size: 329431, checksum (SHA1): d2f445f8ce219701164cd4b43808f343a40811e2)
+0022.041 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0022.041 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0022.042 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0022.043 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-others.zip: others: This file has not yet been successfully uploaded: will queue
+0022.043 (0) backup_2016-06-16-2332_freshandtastycoth_567281d949de-db.gz: db: This file has not yet been successfully uploaded: will queue
+0022.044 (0) Saving backup history. Total backup size: 320.5 MB
+0022.045 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0022.046 (0) Cloud backup selection (1/1): none (last)
+0022.047 (0) No remote despatch: user chose no remote backup service
+0022.048 (0) Recording as successfully uploaded: backup_2016-06-16-2332_freshandtastycoth_567281d949de-plugins.zip (2f6416b7fb9710d5cfbf19a7db845155)
+0022.051 (0) Recording as successfully uploaded: backup_2016-06-16-2332_freshandtastycoth_567281d949de-themes.zip (72c3832c36623416c4438890b95e5cb3)
+0022.053 (0) Recording as successfully uploaded: backup_2016-06-16-2332_freshandtastycoth_567281d949de-uploads.zip (acb47653718962744af4cc123746ef4f)
+0022.055 (0) Recording as successfully uploaded: backup_2016-06-16-2332_freshandtastycoth_567281d949de-others.zip (9a8e6c03534472abfd30cf3584442baf)
+0022.057 (0) Recording as successfully uploaded: backup_2016-06-16-2332_freshandtastycoth_567281d949de-db.gz (d351d3f7f1ad662a1c7760ebcce51350)
+0022.060 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0022.061 (0) Number of backup sets in history: 1; groups (db): 1
+0022.062 (0) Examining (for databases) backup set with group_id=0, nonce=567281d949de, datestamp=1466094779 (Jun 16 2016 16:32:59)
+0022.062 (0) This backup set is the backup set just made, so will not be deleted.
+0022.063 (0) Number of backup sets in history: 1; groups (files): 1
+0022.064 (0) Examining (for files) backup set with nonce=567281d949de, datestamp=1466094779 (Jun 16 2016 16:32:59)
+0022.065 (0) This backup set is the backup set just made, so will not be deleted.
+0022.065 (0) This backup set is the backup set just made, so will not be deleted.
+0022.066 (0) This backup set is the backup set just made, so will not be deleted.
+0022.066 (0) This backup set is the backup set just made, so will not be deleted.
+0022.066 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0022.067 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0022.069 (0) Resume backup (567281d949de, 0): finish run
+0022.071 (0) Decremented the semaphore (fd) by 1
+0022.072 (0) Semaphore (fd) unlocked
+0022.072 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0022.074 (0) No email will/can be sent - the user has not configured an email address.
+0022.075 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Mon, 20 Jun 2016 12:42:54 +0000 on http://freshandtasty.co.th
+0000.002 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.13 WP: 4.5.2 PHP: 5.3.29 (Linux bs1.hostinglotus.net 2.6.32-573.22.1.el6.x86_64 #1 SMP Wed Mar 23 03:35:39 UTC 2016 x86_64) MySQL: 5.5.5 WPLANG: th Server: Apache/2 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 70.8M | 73M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.003 (1) Free space on disk containing Updraft's temporary directory: 364295.8 MB
+0000.004 (1) This backup task (567281d949de) is either complete or began over 2 days ago: ending (1466426574.0954, ) (existing jobdata keys: )

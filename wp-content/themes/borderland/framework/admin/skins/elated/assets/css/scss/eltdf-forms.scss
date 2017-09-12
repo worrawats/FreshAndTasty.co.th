@@ -1,0 +1,15 @@
+@import "mixins";
+@import "variables";
+
+.eltdf-page {
+
+    @import "eltdf-forms/inputs";
+    @import "eltdf-forms/holders";
+}
+
+@media only screen and (max-width: $second-break-point) {
+    #wpbody select.eltdf-form-element {
+        font-size: 13px;
+        height: 34px;
+    }
+}

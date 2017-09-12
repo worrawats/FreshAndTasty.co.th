@@ -1,0 +1,10 @@
+1.0.3
+- Fixed issue with Order By option for Carousel shortcode
+
+1.0.2
+- Updated language files
+- Fixed Portfolio List - Pinterest With Image Only bug with its filter
+- Fixed loading image appearing bug for Elated Slider
+
+1.0.1
+- Fixed info box style for portfolio list

@@ -1,0 +1,1712 @@
+
+
+
+    h6, h6 a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,a,p a,
+    header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a,
+    nav.main_menu>ul>li.active > a,
+    .drop_down .second .inner > ul > li:hover > a,
+    .drop_down .second .inner ul li.sub ul li:hover a,
+    nav.mobile_menu ul li a:hover,
+    nav.mobile_menu ul li.active > a,
+    .side_menu_button > a:hover,
+    .mobile_menu_button span:hover,
+    .vertical_menu ul li a:hover,
+    .vertical_menu_toggle .second .inner ul li a:hover,
+    nav.popup_menu ul li a:hover,
+    nav.popup_menu ul li ul li a,
+    .comment_holder .comment .text .comment_date,
+    .comment_holder .comment .text .replay,
+    .comment_holder .comment .text .comment-reply-link,
+    .comment_holder .comment .text .comment-edit-link,
+    div.comment_form form p.logged-in-as a,
+    .pagination_prev_and_next_only ul li a:hover,
+    .latest_post_holder .latest_post_title a:hover,
+    .latest_post_holder.minimal .latest_post_title a,
+    .latest_post_holder .post_info_section:before,
+    .latest_post_holder .post_info_section span,
+    .latest_post_holder .post_info_section a,
+    .latest_post_holder .post_author a.post_author_link:hover,
+    .projects_holder article .portfolio_title a:hover,
+    .projects_masonry_holder article .portfolio_title a:hover,
+    .filter_holder ul li.current span,
+    .filter_holder ul li:not(.filter_title):hover span,
+    .eltd_accordion_holder.accordion .ui-accordion-header .accordion_mark_icon,
+    .eltd_accordion_holder.accordion:not(.boxed) .ui-accordion-header.ui-state-active span.tab-title,
+    blockquote.with_quote_icon .icon_quotations_holder,
+    blockquote h3,
+    .eltd_dropcap,
+    .price_in_table .value,
+    .price_in_table .price,
+    .price_in_table .mark,
+    .eltd_font_elegant_holder.eltd_icon_shortcode:hover,
+    .eltd_icon_shade.eltd_icon_shortcode:hover,
+    .eltd_font_awsome_icon_holder.eltd_icon_shortcode:hover,
+    .box_holder_icon_inner .eltd_icon_stack,
+    .box_holder_icon_inner .eltd_font_elegant_holder,
+    .eltd_icon_with_title .icon_holder .eltd_icon_stack,
+    .eltd_icon_with_title .eltd_font_elegant_holder,
+    .eltd_progress_bars_icons_inner.square .bar.active i,
+    .eltd_progress_bars_icons_inner.circle .bar.active i,
+    .eltd_progress_bars_icons_inner.normal .bar.active i,
+    .eltd_progress_bars_icons_inner .bar.active i.fa-circle,
+    .eltd_progress_bars_icons_inner.square .bar.active .eltd_font_elegant_icon,
+    .eltd_progress_bars_icons_inner.circle .bar.active .eltd_font_elegant_icon,
+    .eltd_progress_bars_icons_inner.normal .bar.active .eltd_font_elegant_icon,
+    .eltd_social_icon_holder.normal_social .simple_social,
+    .eltd_social_icon_holder.normal_social.with_link .simple_social,
+    .eltd_list.number ul>li:before,
+    .social_share_list_holder ul li i:hover,
+    .woocommerce.single-product.single .social_share_list_holder ul li i:hover,
+    .eltd_progress_bar .progress_number_wrapper.static .progress_number,
+    .qbutton:hover,
+    .load_more a:hover,
+    #submit_comment:hover,
+    .post-password-form input[type='submit']:hover,
+    .drop_down .wide .second ul li .qbutton:hover,
+    .drop_down .wide .second ul li ul li .qbutton:hover,
+    nav.content_menu ul li.active:hover i,
+    nav.content_menu ul li:hover i,
+    nav.content_menu ul li.active:hover a,
+    nav.content_menu ul li:hover a,
+    aside.sidebar .widget:not(.woocommerce) li,
+    .header-widget.widget_nav_menu ul.menu li a:hover,
+    input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
+    .latest_post_holder .post_info_section .latest_post_categories a,
+    .latest_post_holder .post_info_section .post_author_link,
+    .latest_post_holder.boxes .date,
+    .latest_post_holder.image_in_box .date,
+    .qbutton.white,
+    .qbutton.solid_color:hover,
+    .qbutton.top_and_bottom_border,
+    .blog_load_more_button a:hover,
+    .eltd_progress_bars_vertical .progress_number,
+    .eltd_counter_holder span.counter,
+    .eltd_icon_shortcode span,
+    .eltd_icon_shortcode i,
+    .eltd_separator_with_icon .eltd_icon_holder .eltd_icon_shade i,
+    .eltd_separator_with_icon .eltd_icon_holder .eltd_icon_shade span,
+    .service_table_inner li.service_icon .service_table_icon,
+	.eltd_search_form_3 .eltd_search_close a:hover,
+	.eltd_search_form_2 input[type="submit"]:hover,
+    .projects_holder article .item_holder.slide_from_left_hover .portfolio_title a,
+    .projects_masonry_holder article .item_holder.slide_from_left_hover .portfolio_title a,
+    .portfolio_slider li.item .item_holder.slide_from_left_hover .portfolio_title a,
+    .projects_holder article .item_holder.image_text_zoom_hover .portfolio_title a,
+    .projects_masonry_holder article .item_holder.image_text_zoom_hover .portfolio_title a,
+    .portfolio_slider li.item .item_holder.image_text_zoom_hover .portfolio_title a,
+    .projects_holder article .item_holder.opposite_corners_hover .portfolio_title a:hover,
+    .projects_masonry_holder article .item_holder.opposite_corners_hover .portfolio_title a:hover,
+    .portfolio_slider li.item .item_holder.opposite_corners_hover .portfolio_title a:hover,
+    .projects_holder article .item_holder.upward_hover .icons_holder a:hover,
+    .projects_masonry_holder article .item_holder.upward_hover .icons_holder a:hover,
+    .portfolio_slider li.item .item_holder.upward_hover .icons_holder a:hover,
+    .projects_holder article .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+    .projects_masonry_holder article .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+    .portfolio_slider li.item .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover,
+	.shopping_cart_dropdown ul li .item_info_holder .item_left a:hover,
+	.shopping_cart_header .header_cart i,
+	.shopping_cart_header .header_cart:hover i,
+    .eltd_tabs .tabs-nav li a,
+	.eltd_tabs.border_arround_element .tabs-nav li a,
+	.eltd_tabs.border_arround_active_tab .tabs-nav li a,
+	.eltd_tabs.border_arround_active_tab .tabs-nav li a:hover,
+    .blog_holder article .post_text h2 .date,
+    .blog_holder article .post_info a,
+    .blog_holder article .post_info a:hover,
+    .blog_holder article.format-link .post_text .link_image .post_text_inner .post_title a,
+    .blog_holder article.format-quote .post_text .quote_image .post_text_inner .post_title a,
+    .blog_holder article.format-quote h3 .date,
+    .blog_holder article.format-link h3 .date,
+    .blog_holder article.sticky h2 a,
+    .blog_holder article h2 a:hover,
+	.blog_holder.blog_single article h2:hover,
+	.blog_holder.blog_standard_type article .read_more_wrapper>div .social_share_holder a:hover,
+	.blog_holder.masonry article .read_more_wrapper>div .social_share_holder a:hover,
+	.blog_holder.masonry_full_width article .read_more_wrapper>div .social_share_holder a:hover,
+    .comment-list .post_author_comment .post-author-comment-icon,
+	.eltd_team.below_image .eltd_team_info .eltd_team_position,
+    .social_share_dropdown ul li:hover a span.social_network_icon,
+    .social_share_dropdown ul li:hover,
+    .social_share_dropdown ul li a:hover span.social_network_icon,
+    .qbutton.masonry_read_more_button:hover,
+    .eltd_team.below_image .eltd_team_social_holder_between .social_share_icon_shape .social_share_icon,
+    .eltd_team_social_holder_between .eltd_social_icon_holder .eltd_icon_stack,
+	.vc_grid-container .vc_grid-filter.vc_grid-filter-color-grey > .vc_grid-filter-item:hover span,
+	.vc_grid-container .vc_grid-filter.vc_grid-filter-color-grey > .vc_grid-filter-item.vc_active span {
+		color: #dd3333;
+    }
+
+    .title,
+    .popup_menu:hover .line,
+    .popup_menu:hover .line:after,
+    .popup_menu:hover .line:before,
+    .mejs-controls .mejs-time-rail .mejs-time-current,
+    .mejs-controls .mejs-time-rail .mejs-time-handle,
+    .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current,
+    .eltd_accordion_holder.accordion.boxed .ui-accordion-header.ui-state-active,
+    .eltd_accordion_holder.accordion.boxed .ui-accordion-header.ui-state-hover,
+    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-active .accordion_mark,
+    .eltd_accordion_holder.accordion .ui-accordion-header.ui-state-hover .accordion_mark,
+    .eltd_dropcap.circle,
+    .eltd_dropcap.square,
+    .gallery_holder ul li .gallery_hover i.fa-search,
+    .highlight,
+    .testimonials_holder.light .flex-direction-nav a:hover,
+    .eltd_tabs.with_borders .tabs-nav li.active a,
+	.eltd_tabs.with_borders .tabs-nav li.active a:hover,
+    .eltd_tabs.border_arround_element .tabs-nav li a:hover,
+    .eltd_tabs.with_lines .tabs-nav li.active a,
+    .eltd_tabs.with_lines .tabs-nav li a:hover,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li a:hover:after,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li.active a:after,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li.active a:hover:after,
+    .eltd_message,
+    .price_table_inner .price_button a,
+	.price_table_inner .button_on_bottom_wrapper a,
+    .eltd_price_table.active .active_text,
+    .eltd_social_icon_holder .eltd_icon_stack,
+    .footer_top .eltd_social_icon_holder:hover .eltd_icon_stack,
+    .eltd_list.circle ul>li:before,
+    .eltd_list.number.circle_number ul>li:before,
+    .eltd_pie_graf_legend ul li .color_holder,
+    .eltd_line_graf_legend ul li .color_holder,
+    .animated_icon_inner span.animated_icon_back .animated_icon,
+    .eltd_progress_bar .progress_content,
+    .eltd_progress_bars_vertical .progress_content_outer .progress_content,
+    .eltd_progress_bar .floating.floating_outside .progress_number,
+    .qbutton,
+    .load_more a,
+    .blog_load_more_button a,
+    #submit_comment,
+    .post-password-form input[type='submit'],
+    #wp-calendar td#today,
+    .eltd_image_gallery_no_space.light .controls a.prev-slide:hover,
+    .eltd_image_gallery_no_space.light .controls a.next-slide:hover,
+    input.wpcf7-form-control.wpcf7-submit,
+    div.wpcf7-response-output.wpcf7-mail-sent-ok,
+    .qbutton.white:hover,
+    .qbutton.solid_color,
+    .qbutton.top_and_bottom_border:hover,
+    .pagination ul li a:hover,
+    .single_links_pages span:hover,
+    .comment_pager .page-numbers:hover,
+    .comment_pager a:hover,
+    .comment_pager .current:hover,
+    .pagination ul li.active span,
+    .single_links_pages > span,
+    .comment_pager .current,
+	.comment_pager .page-numbers.dots:hover,
+    .read_more_button_holder a,
+    .read_more_button_holder a.white:hover,
+    .projects_holder article .item_holder.upward_hover .text_holder,
+    .projects_masonry_holder article .item_holder.upward_hover .text_holder,
+    .portfolio_slider li.item .item_holder.upward_hover .text_holder,
+    .projects_holder article .item_holder.slide_from_left_hover .icons_holder,
+    .projects_masonry_holder article .item_holder.slide_from_left_hover .icons_holder,
+    .portfolio_slider li.item .item_holder.slide_from_left_hover .icons_holder,
+    .projects_holder article .item_holder.opposite_corners_hover .text_holder .separator,
+    .projects_masonry_holder article .item_holder.opposite_corners_hover .text_holder .separator,
+    .portfolio_slider li.item .item_holder.opposite_corners_hover .text_holder .separator,
+    .projects_holder article .item_holder.opposite_corners_hover .text_holder .separator.animate,
+    .projects_masonry_holder article .item_holder.opposite_corners_hover .text_holder .separator.animate,
+    .portfolio_slider li.item .item_holder.opposite_corners_hover .text_holder .separator.animate,
+    .projects_holder article .item_holder.slide_from_left_hover .text_holder .separator,
+    .projects_masonry_holder article .item_holder.slide_from_left_hover .text_holder .separator,
+    .portfolio_slider li.item .item_holder.slide_from_left_hover .text_holder .separator,
+    .projects_holder article .item_holder.slide_from_left_hover .text_holder .separator.animate,
+    .projects_masonry_holder article .item_holder.slide_from_left_hover .text_holder .separator.animate,
+    .portfolio_slider li.item .item_holder.slide_from_left_hover .text_holder .separator.animate,
+    .projects_holder article .item_holder.subtle_vertical_hover .text_holder .separator,
+    .projects_masonry_holder article .item_holder.subtle_vertical_hover .text_holder .separator,
+    .portfolio_slider li.item .item_holder.subtle_vertical_hover .text_holder .separator,
+    .projects_holder article .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+    .projects_masonry_holder article .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+    .portfolio_slider li.item .item_holder.subtle_vertical_hover .text_holder .separator.animate,
+    .projects_holder article .item_holder.image_text_zoom_hover .text_holder .separator,
+    .projects_masonry_holder article .item_holder.image_text_zoom_hover .text_holder .separator,
+    .portfolio_slider li.item .item_holder.image_text_zoom_hover .text_holder .separator,
+    .projects_holder article .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+    .projects_masonry_holder article .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+    .portfolio_slider li.item .item_holder.image_text_zoom_hover .text_holder .separator.animate,
+    .projects_holder article .item_holder.opposite_corners_hover .icons_holder a,
+    .projects_masonry_holder article .item_holder.opposite_corners_hover .icons_holder a,
+    .portfolio_slider li.item .item_holder.opposite_corners_hover .icons_holder a,
+    .projects_holder article .item_holder.subtle_vertical_hover .icons_holder a,
+    .projects_masonry_holder article .item_holder.subtle_vertical_hover .icons_holder a,
+    .portfolio_slider li.item .item_holder.subtle_vertical_hover .icons_holder a,
+    .projects_holder article .item_holder.image_text_zoom_hover .icons_holder a,
+    .projects_masonry_holder article .item_holder.image_text_zoom_hover .icons_holder a,
+    .portfolio_slider li.item .item_holder.image_text_zoom_hover .icons_holder a,
+    .projects_holder article .item_holder.gradient_hover .icons_holder a:hover,
+    .projects_masonry_holder article .item_holder.gradient_hover .icons_holder a:hover,
+    .portfolio_slider li.item .item_holder.gradient_hover .icons_holder a:hover,
+	.vertical_menu_hidden_button_line,
+	.vertical_menu_hidden_button_line:after,.vertical_menu_hidden_button_line:before,
+	.popup_menu.opened:hover .line:after,
+	.popup_menu.opened:hover .line:before,
+	.shopping_cart_header .header_cart_span,
+	.shopping_cart_dropdown .cart_bottom .checkout,
+	.shopping_cart_dropdown .cart_bottom .view-cart:hover,
+	.shopping_cart_dropdown ul li .item_info_holder .item_right .remove:hover,
+	.popup_menu.opened:hover .line:before,
+	.single_tags  a:hover,
+	aside.sidebar .widget .tagcloud a:hover,
+	.widget .tagcloud a:hover,
+	.blog_holder.blog_meta_info_featured_on_side article .post_icon_date,
+	.blog_holder article.format-link .post_text .post_text_inner:hover,
+    .blog_holder article.format-quote .post_text .post_text_inner:hover,
+	.blog_holder article .post_social .post_comments i,
+    .blog_holder article .post_social .blog_like i,
+	.blog_vertical_loop_button .button_icon a,
+	.blog_vertical_loop_back_button .button_icon a,
+	.blog_holder.blog_standard_type article .read_more_wrapper>div .social_share_holder>a,
+	.blog_holder.masonry article .read_more_wrapper>div .social_share_holder>a
+	.blog_holder.masonry_full_width article .read_more_wrapper>div .social_share_holder>a,
+    .wpb_gallery .flexslider_slide .flex-control-paging li a.flex-active,
+    .wpb_gallery .flexslider_fade .flex-control-paging li a.flex-active,
+	.eltd_team.below_image:hover .social_share_icon_shape{
+		background-color: #dd3333;
+    }
+
+    
+    .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .portfolio_shader,
+    .portfolio_main_holder .item_holder.prominent_plain_hover .portfolio_shader,
+    .portfolio_main_holder .item_holder.slide_up_hover .portfolio_shader,
+    .portfolio_main_holder .item_holder.cursor_change_hover .portfolio_shader,
+    .portfolio_main_holder .item_holder.circle_hover .portfolio_shader,
+    .latest_post_holder .boxes_image a .latest_post_overlay{
+    background-color: rgba(221,51,51,0.7);
+    }
+
+    .qbutton.mid_transparent:hover{
+    border-color: rgba(221,51,51,0.25);
+    background-color: rgba(221,51,51,0.5);
+    }
+    .eltd_circles_holder .eltd_circle_inner:hover .eltd_circle_inner2,
+    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack,
+    .eltd_icon_shade.circle:hover,
+    .eltd_icon_shade.square:hover,
+    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack,
+    .eltd_circles_holder .eltd_circle_inner:hover .eltd_circle_inner2{
+    background-color: #dd3333 !important;
+    }
+
+    #respond textarea:focus,
+    #respond input[type='text']:focus,
+    .post-password-form input[type='password']:focus,
+	.eltd_accordion_holder.accordion.boxed .ui-accordion-header.ui-state-active,
+	.eltd_accordion_holder.accordion.boxed .ui-accordion-header.ui-state-hover,
+	.eltd_accordion_holder.accordion .ui-accordion-header.ui-state-active .accordion_mark,
+	.eltd_accordion_holder.accordion .ui-accordion-header.ui-state-hover .accordion_mark,
+    .testimonials_holder.light .flex-direction-nav a:hover,
+    .eltd_progress_bars_icons_inner.circle .bar .bar_noactive,
+    .eltd_progress_bars_icons_inner.square .bar .bar_noactive,
+    .animated_icon_inner span.animated_icon_back .animated_icon,
+    .qbutton,
+    .load_more a,
+    .blog_load_more_button a,
+    #submit_comment,
+    .post-password-form input[type='submit'],
+    .qbutton:hover,
+    .load_more a:hover,
+    .blog_load_more_button a:hover,
+    #submit_comment:hover,
+    .drop_down .wide .second ul li .qbutton:hover,
+    .drop_down .wide .second ul li ul li .qbutton:hover,
+    .post-password-form input[type='submit']:hover,
+    .call_to_action .to_action_column2.button_wrapper .qbutton:hover,
+    .header-widget.widget_nav_menu ul ul,
+    input.wpcf7-form-control.wpcf7-text:focus,
+    input.wpcf7-form-control.wpcf7-number:focus,
+    input.wpcf7-form-control.wpcf7-date:focus,
+    textarea.wpcf7-form-control.wpcf7-textarea:focus,
+    select.wpcf7-form-control.wpcf7-select:focus,
+    input.wpcf7-form-control.wpcf7-quiz:focus,
+    input.wpcf7-form-control.wpcf7-submit,
+    input.wpcf7-form-control.wpcf7-submit[disabled],
+    input.wpcf7-form-control.wpcf7-submit:not([disabled]),
+    input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
+    .qbutton.white,
+    .qbutton.white:hover,
+    .qbutton.solid_color,
+    .qbutton.solid_color:hover,
+    .qbutton.top_and_bottom_border,
+    .qbutton.top_and_bottom_border:hover,
+    .eltd_counter_holder .separator.medium,
+    .eltd_icon_shade.circle,
+    .eltd_icon_shade.square,
+    .eltd_pricing_border,
+    .price_table_inner .price_button a,
+	.price_table_inner .button_on_bottom_wrapper a,
+	.eltd_tabs.border_arround_element.horizontal.enable_margin .tabs-nav li:hover,
+	.eltd_tabs.border_arround_element.horizontal.enable_margin .tabs-nav li.active,
+	.eltd_tabs.border_arround_active_tab.horizontal .tabs-nav li.active,
+	.eltd_tabs.border_arround_active_tab.horizontal .tabs-nav li.active:hover,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li:not(.active) a:hover,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li.active a,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li:last-child a:hover,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li:not(.active):last-child a:hover,
+	.eltd_tabs.border_arround_element.horizontal.disable_margin .tabs-nav li.active:last-child a,
+	.single_tags  a:hover,
+	aside.sidebar .widget .tagcloud a:hover,
+	.widget .tagcloud a:hover,
+    .box_holder_icon_inner:not(.normal_icon) .eltd_icon_stack,
+    .eltd_icon_with_title:not(.normal_icon) .icon_holder .eltd_icon_stack,
+    .eltd_icon_with_title:not(.normal_icon) .eltd_font_elegant_holder,
+    .eltd_team.below_image:hover .social_share_icon_shape,
+    .box_holder_icon_inner:not(.normal_icon) .eltd_font_elegant_holder,
+	.pagination ul li a:hover,
+	.single_links_pages span:hover,
+	.comment_pager a:hover,
+	.comment_pager .current:hover,
+	.pagination ul li.active span,
+	.single_links_pages > span,
+	.comment_pager .current,
+	.comment_pager .page-numbers.dots:hover,
+	.blog_holder.blog_standard_type article .read_more_wrapper>div .social_share_holder>a,
+	.blog_holder.masonry article .read_more_wrapper>div .social_share_holder>a,
+	.blog_holder.masonry_full_width article .read_more_wrapper>div .social_share_holder>a{
+		border-color: #dd3333;
+    }
+
+	.drop_down .second,
+    .eltd_progress_bar .progress_number_wrapper.floating .down_arrow{
+		border-top-color: #dd3333;
+	}
+
+    .eltd_circles_holder .eltd_circle_inner:hover .eltd_circle_inner2,
+    .eltd_circles_holder .eltd_circle_inner:hover,
+    .eltd_team_social_holder .eltd_social_icon_holder:hover .eltd_icon_stack{
+    border-color: #dd3333 !important;
+    }
+
+    
+
+
+
+
+
+    .transparent_content,
+	.transparent_content.overlapping_content .content .content_inner > .container,
+	.transparent_content.overlapping_content .content .content_inner > .full_width > .full_width_inner{
+		
+		
+		
+		}
+
+		.wrapper,
+		.content,
+		.full_width,
+		.content .container,
+		.more_facts_holder,
+		.container_inner.default_template_holder,
+		.paspartu_outer,
+		.paspartu_left,
+		.paspartu_right,
+		.paspartu_bottom,
+		.paspartu_outer .eltd_slider,
+		.paspartu_outer .content:not(.has_slider) .content_inner{
+			background-color: transparent !important;
+		}
+
+
+
+    .header_bottom,
+	.fixed_top_header .bottom_header,
+	header.centered_logo:not(.sticky):not(.scrolled) .main_menu_line_holder nav.main_menu{
+    background-color: rgba(221,51,51,1);
+    }
+
+    
+
+    .header_bottom .container_inner,
+	.bottom_header .container_inner,
+	header.centered_logo:not(.sticky):not(.scrolled) .container_inner .main_menu_line_holder nav.main_menu{
+    background-color: rgba(221,51,51,0);
+    }
+
+
+
+
+
+
+
+
+
+    .content .content_inner > .container > .container_inner.default_template_holder{
+		padding-top: 44px;
+    }
+
+    @media only screen and (max-width: 1000px){
+    .content .content_inner > .container > .container_inner,
+    .content .content_inner > .full_width > .full_width_inner,
+    .content .content_inner > .container > .container_inner.default_template_holder,
+	body.page-template-blog-masonry-full-width-php .content .full_width .full_width_inner,
+	.content .full_width.blog_masonry_full_width_template .full_width_inner{
+		padding-top: 44px !important;
+    }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				.content.has_slider{
+			margin-top: -129px;
+		}
+		.content_wrapper{
+			margin-top: 129px;
+		}
+			    .content{
+		margin-top: 0;
+    }
+
+@media only screen and (max-width: 1000px){
+	.content_wrapper{
+		margin-top: 0px;
+	}
+}
+
+
+
+header .header_bottom.left_menu_position .logo_wrapper{
+	width: 63.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .content.content_top_margin{
+		margin-top: 129px !important;
+    }
+
+    .vertical_menu_enabled .content.content_top_margin{
+    margin-top: 0px !important;
+    }
+
+
+
+
+
+    header.sticky .logo_wrapper,
+    header.sticky .side_menu_button,
+    header.sticky .header_bottom_right_widget_holder,
+    header.sticky .shopping_cart_inner,
+		.side_menu.sticky .close_side_menu_holder{
+		height: 60px !important;
+    }
+
+    header.sticky .header_bottom,
+    header.fixed.scrolled .header_bottom,
+    header.fixed_hiding.scrolled .header_bottom{
+    box-shadow: none;
+    -webkit-box-shadow: none;
+	box-shadow: none;
+    }
+
+
+
+
+        @media only screen and (min-width: 1000px){
+			header.fixed_hiding .eltd_logo a,
+			header.fixed_hiding .eltd_logo{
+				max-height: 32px;
+			}
+        }
+
+
+
+
+
+
+
+
+
+
+
+    .drop_down .second .inner ul,
+    .drop_down .second .inner ul li ul,
+    .shopping_cart_dropdown,
+    li.narrow .second .inner ul,
+	.header_top #lang_sel ul ul,
+	.header_top #lang_sel_click ul ul,
+	.header_bottom #lang_sel ul ul,
+	.header_bottom #lang_sel_click  ul ul,
+    .header-widget.widget_nav_menu ul ul	{
+		background-color: #ffffff;
+		background-color: rgba(255,255,255,1);
+    }
+
+
+
+
+
+
+
+
+
+    .drop_down .second{
+    border-top: 0 !important;
+    }
+
+
+
+
+    nav.main_menu > ul > li > a{
+     color: #ffffff;                             }
+
+	.header_bottom #lang_sel > ul > li > a,
+	.header_bottom #lang_sel_click > ul > li > a,
+	.header_bottom #lang_sel ul > li:hover > a{
+     color: #ffffff !important;                             }
+
+	
+
+    nav.main_menu > ul > li > a > span.item_inner{
+    
+    
+		
+					border-style: solid;
+		
+
+                
+        
+            
+            
+            
+                }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+			
+
+
+
+
+
+
+
+
+    nav.main_menu > ul > li:hover > a,
+    nav.main_menu > ul > li.active:hover > a,
+    header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a,
+	header:not(.with_hover_bg_color) nav.main_menu > ul > li.active:hover > a,
+	.header_bottom #lang_sel ul li a:hover,
+	.header_bottom #lang_sel_click > ul > li a:hover{
+		color: #0a0a0a !important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .drop_down .second .inner>ul,
+	li.narrow .second .inner ul,
+	.drop_down .narrow .second .inner ul li ul,
+	.shopping_cart_dropdown,
+	.shopping_cart_dropdown ul li{
+		border-color:  #ffffff;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .title h1, .title h1.title_like_separator .vc_text_separator.full .separator_content{
+    color: #ffffff;         font-size: 29px;     line-height: 25px;                 text-transform: none;     }
+
+
+
+	body.single-post .title .title_subtitle_holder .subtitle{
+		display:none;
+	}
+
+
+
+
+
+	
+	
+
+
+
+
+	
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.blog_holder.masonry .post_text .post_text_inner,
+	.blog_holder.masonry_full_width .post_text .post_text_inner,
+	.blog_holder.masonry article.format-link .post_text .post_info,
+	.blog_holder.masonry_full_width article.format-link .post_text .post_info,
+	.blog_holder.masonry article.format-quote .post_text .post_info,
+	.blog_holder.masonry_full_width article.format-quote .post_text .post_info{
+	text-align: left	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #back_to_top > span{
+    font-size: 14px;    }
+
+
+
+
+
+
+	.carousel-control .prev_nav .numbers,
+	.carousel-control .next_nav .numbers {
+		-webkit-transition: color 0.15s ease-out;
+		-moz-transition: color 0.15s ease-out;
+		transition: color 0.15s ease-out;
+		font-family: -1, sans-serif	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.eltd_team.below_image:not(.social_style_center) .eltd_team_social_holder_between.center{
+    right: calc(50% - 23px);
+}
+
+.eltd_pricing_tables .price_table_inner ul a.button_on_bottom{
+	left: calc(50% - 24px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+    .footer_top_holder, .footer_ingrid_border_holder_outer{
+    background-color:#37962e;
+    }
+
+    @media only screen and (min-width: 600px){
+        .footer_top, .eltd_column{
+        text-align:  left        }
+    }
+    @media only screen and (min-width: 600px){
+        .footer_top, .eltd_column.column1{
+        text-align:  left        }
+    }
+
+    .footer_top,
+    .footer_top p,
+    .footer_top span:not(.eltd_social_icon_holder):not(.fa-stack):not(.social_icon):not(.eltd_icon_shortcode),
+    .footer_top li,
+    .footer_top .textwidget,
+    .footer_top .widget_recent_entries>ul>li>span{
+    color: #000000    }
+
+
+    .footer_top a:hover{
+    color: #000000;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .footer_top .widget h4 {
+    color: #000000    }
+
+
+    .content_bottom{
+    background-color:#dd3333;
+    }
+
+
+
+
+
+    aside.sidebar{
+    text-align: left    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .side_menu,
+	.side_menu_slide_from_right .side_menu{
+    background-color:#000000    }
+
+
+
+
+
+
+
+    .side_menu .widget,
+    .side_menu .widget.widget_search form,
+    .side_menu .widget.widget_search form input[type="text"],
+    .side_menu .widget.widget_search form input[type="submit"],
+    .side_menu .widget h6,
+    .side_menu .widget h6 a,
+    .side_menu .widget p,
+    .side_menu .widget li a,
+    .side_menu .widget.widget_rss li a.rsswidget,
+    .side_menu #wp-calendar caption,
+    .side_menu .widget li,
+    .side_menu_title h3,
+    .side_menu .widget.widget_archive select,
+    .side_menu .widget.widget_categories select,
+    .side_menu .widget.widget_text select,
+    .side_menu .widget.widget_search form input[type="submit"],
+    .side_menu #wp-calendar th,
+    .side_menu #wp-calendar td,
+    .side_menu .eltd_social_icon_holder i.simple_social{
+    color: #ffffff	}
+
+    .side_menu h4, .side_menu h5 { color: #ffffff }
+
+
+
+
+
+
+/* widget elements style start */
+/* search widget */
+
+.widget.widget_search form input[type="submit"],
+.header_top #searchform input[type="submit"],
+.header-widget #searchform input[type="submit"],
+.header_top #searchform input[type="submit"]{
+	width: 30px;
+}
+
+.woocommerce .widget #searchsubmit,
+aside.sidebar .widget_product_search form#searchform input#searchsubmit{
+	width: 37px;
+}
+
+.widget.widget_search form input[type="text"],
+.header_top #searchform input[type="text"],
+.header-widget #searchform input[type="text"]{
+	width: calc(100% - 30px);
+}
+
+.woocommerce .widget #searchform input[type='text'],
+aside.sidebar .widget_product_search form#searchform input#s{
+	width: calc(100% - 37px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media only screen and (max-width: 480px){
+        .eltd_slider .carousel, .eltd_slider_preloader, .carousel-inner>.item{
+            height: 250px !important;
+        }
+    }
+
+
+
+
+
+
+
+	
+	
+	
+		
+
+
+
+
+
+
+
+
+    .side_menu_button > a,
+    .mobile_menu_button span,
+    .side_menu_button > a.search_covers_header:not(.popup_menu),
+    .side_menu_button > a.side_menu_button_link:not(.popup_menu),
+    .side_menu_button > a.search_slides_from_header_bottom:not(.popup_menu),
+    .side_menu_button > a.fade_push_text_right:not(.popup_menu){ color: #ffffff; }
+
+    .popup_menu .line,
+    .popup_menu .line:after, .popup_menu .line:before,
+	.popup_menu.opened .line:after, .popup_menu.opened .line:before{
+    background-color: #ffffff;
+    }
+    .side_menu_button > a:hover,
+    .mobile_menu_button span:hover,
+    .popup_menu:hover .line,
+    .popup_menu:hover .line:after,
+    .popup_menu:hover .line:before,
+	.light:not(.sticky):not(.scrolled) .side_menu_button > a:hover,
+	.dark:not(.sticky):not(.scrolled) .side_menu_button > a:hover{
+		color: #f4f4f4!important;	}
+
+    .popup_menu:hover .line,
+    .popup_menu:hover .line:after, .popup_menu:hover .line:before,
+	.popup_menu.opened:hover .line:after,
+	.popup_menu.opened:hover .line:before{
+    background-color: #f4f4f4 ;
+    }
+
+
+
+
+
+
+
+
+.vertical_menu_to_content .menu-item .second {
+    left: calc(100% + 40px); /*because of the padding*/
+}
+
+.vertical_menu_right .vertical_menu_to_content .menu-item .second {
+    right: calc(100% + 40px);
+}
+
+.vertical_menu_right .vertical_menu_to_content .second .inner ul li ul {
+    right: calc(100% + 25px);
+}
+
+.vertical_menu_to_content .second .inner ul li ul {
+    left: calc(100% + 25px);    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    nav.popup_menu ul li,
+    .fullscreen_above_menu_widget_holder,
+    .fullscreen_menu_widget_holder{
+        text-align: left;
+    }
+
+
+    .side_menu_button a.popup_menu{
+    padding-left: 2px; padding-right: 2px; margin-left: 2px; margin-right: 2px;     }
+
+
+
+
+    .projects_holder article .portfolio_description{
+    background-color: transparent;
+    }
+
+    .projects_holder.standard article .portfolio_description,
+    .projects_holder.standard_no_space article .portfolio_description {
+    padding-left: 0;
+    padding-right: 0;
+    }
+
+    .masonry_with_space .projects_holder article .portfolio_description {
+    padding: 35px 0 43px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .header_top,
+	.fixed_top_header .top_header	{
+    border-width: 0px;    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .filter_outer.filter_blog{
+    text-align: left;    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+												
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+	
+.woocommerce .product .onsale:not(.out-of-stock-button), 
+.woocommerce .product .single-onsale{
+	left: calc( 50% - 27px);
+}	
+
+
+ 
+ 
+.woocommerce .product .onsale.out-of-stock-button{
+	  left: calc( 50% - 27px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.preload_background{
+	background-image: url("http://freshandtasty.co.th/wp-content/themes/borderland/img/preload_pattern.png") !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+

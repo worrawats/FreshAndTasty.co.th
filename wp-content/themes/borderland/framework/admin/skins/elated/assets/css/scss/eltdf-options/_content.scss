@@ -1,0 +1,43 @@
+.eltdf-tab-content {
+	.eltdf-page-title {
+		color:#8D9CA6;
+		font-size: 15px;
+		background-color:#F6F8F8;
+		padding:5px 20px;
+		margin: -20px -20px 30px -20px;
+		border-bottom: 1px solid #dce0e6;
+		font-weight:600;
+	}
+
+	.eltdf-page-title.eltd-page-title-fixed {
+		position:fixed;
+		z-index: 8;
+		margin-bottom: 0;
+	}
+
+	.eltdf-page-form {
+		position: relative;
+	}
+
+	.eltdf-page-section-title {
+		color: $eltdf-first-color;
+		background-color: #fff;
+		padding-bottom: 15px;
+		padding-top: 15px;
+		padding-left: 10px;
+		margin: -10px 0px 0;
+		border-bottom:1px solid #efefef;
+		font-size: 15px;
+		line-height: 1
+	}
+
+	.eltdf-page-form-section-holder {
+		margin-bottom: 30px;
+		padding: 0px 0px;
+		background:#fff;
+	}
+
+	.eltdf-page-form-section-holder h3 + .eltdf-page-form-section {
+		border-top:none;
+	}
+}

@@ -1,0 +1,77 @@
+.eltdf-page-section-subtitle {
+    color:#374a59;
+    font-weight:400;
+    display: inline-block;
+    margin:15px 0 15px;
+    font-size: 14px;
+    position:relative;
+    left:0px;
+    padding:0px 20px;
+    border-left:3px solid $eltdf-first-color;
+}
+
+.eltdf-field-description {
+	margin: 0px 0 10px;
+	display: block;
+	color: #808A93;
+	font-style: normal;
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.eltdf-field-description {
+	margin-top:10px;
+}
+
+.eltdf-page-form-section {
+	border-top: 1px solid #efefef;
+	display: table;
+	width: 100%;
+}
+
+.eltdf-page-form-section:last-child {
+	border-bottom: none;
+}
+
+.eltdf-page-form-section {
+	border-top: 1px solid #efefef;
+	display: table;
+	width: 100%;
+}
+
+.eltdf-page-form-container-holder .eltdf-field-desc {
+	background-color: #f7f9fa;
+	border-left:2px solid #D8DDE7;
+}
+
+.eltdf-field-desc {
+	width: 20%;
+	padding: 15px 10px;
+	display: table-cell;
+	height: 100%;
+	vertical-align: middle;
+	background-color: #f7f9fa;
+}
+
+.eltdf-field-desc h4 {
+	margin-bottom: 0;
+	color:#374a59;
+	font-size: 14px;
+	font-weight: 600;
+}
+
+.eltdf-field-desc p {
+	color:#374a59;
+	margin-top:0;
+	margin-bottom: 0;
+	font-size: 13px;
+	font-weight:300;
+}
+
+.eltdf-section-content {
+	padding: 20px 0;
+	display: table-cell;
+	width: 80%;
+	height: 100%;
+	vertical-align: middle;
+}

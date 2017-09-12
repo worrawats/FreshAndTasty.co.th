@@ -1,0 +1,144 @@
+input.eltdf-form-element,
+select.eltdf-form-element,
+textarea.eltdf-form-element {
+	@include eltdf-box-shadow(none);
+	@include eltdf-transition(border-color 0.3s ease-in-out);
+
+	border-color: #ddd;
+	font-size: 12px;
+	outline: none;
+}
+
+input[type='text'].eltdf-form-element,
+input[type='email'].eltdf-form-element,
+input[type='password'].eltdf-form-element,
+input[type='number'].eltdf-form-element,
+select.eltdf-form-element,
+textarea.eltdf-form-element {
+	@include eltdf-border-radius(4px);
+}
+
+input[type='text'].eltdf-form-element.eltdf-form-element-xxsmall,
+input[type='email'].eltdf-form-element.eltdf-form-element-xxsmall,
+input[type='password'].eltdf-form-element.eltdf-form-element-xxsmall,
+input[type='number'].eltdf-form-element.eltdf-form-element-xxsmall,
+select.eltdf-form-element.eltdf-form-element-xxsmall,
+textarea.eltdf-form-element.eltdf-form-element-xxsmall {
+	width: 60px;
+}
+
+input[type='text'].eltdf-form-element.eltdf-form-element-xsmall,
+input[type='email'].eltdf-form-element.eltdf-form-element-xsmall,
+input[type='password'].eltdf-form-element.eltdf-form-element-xsmall,
+input[type='number'].eltdf-form-element.eltdf-form-element-xsmall,
+select.eltdf-form-element.eltdf-form-element-xsmall,
+textarea.eltdf-form-element.eltdf-form-element-xsmall {
+	width: 100px;
+}
+
+input[type='text'].eltdf-form-element.eltdf-form-element-small,
+input[type='email'].eltdf-form-element.eltdf-form-element-small,
+input[type='password'].eltdf-form-element.eltdf-form-element-small,
+input[type='number'].eltdf-form-element.eltdf-form-element-small,
+select.eltdf-form-element.eltdf-form-element-small,
+textarea.eltdf-form-element.eltdf-form-element-small {
+	width: 155px;
+}
+
+input[type='text'].eltdf-form-element.eltdf-form-element-medium,
+input[type='email'].eltdf-form-element.eltdf-form-element-medium,
+input[type='password'].eltdf-form-element.eltdf-form-element-medium,
+input[type='number'].eltdf-form-element.eltdf-form-element-medium,
+select.eltdf-form-element.eltdf-form-element-medium,
+textarea.eltdf-form-element.eltdf-form-element-medium {
+	width: 255px;
+}
+
+input[type='text'].eltdf-form-element.eltdf-form-element-large,
+input[type='email'].eltdf-form-element.eltdf-form-element-large,
+input[type='password'].eltdf-form-element.eltdf-form-element-large,
+input[type='number'].eltdf-form-element.eltdf-form-element-large,
+select.eltdf-form-element.eltdf-form-element-large,
+textarea.eltdf-form-element.eltdf-form-element-large {
+	width: 500px;
+}
+
+textarea.eltdf-form-element {
+	resize: none;
+}
+#general textarea.eltdf-form-element {
+	resize: vertical;
+}
+
+input[type='text'].eltdf-form-element,
+input[type='email'].eltdf-form-element,
+input[type='password'].eltdf-form-element,
+input[type='number'].eltdf-form-element,
+select.eltdf-form-element {
+	height: 34px;
+	line-height: 1.42857143;
+}
+
+input[type='text'].eltdf-form-element,
+input[type='email'].eltdf-form-element,
+input[type='password'].eltdf-form-element,
+input[type='number'].eltdf-form-element,
+select.eltdf-form-element,
+textarea.eltdf-form-element {
+	padding: 6px 12px;
+}
+input.eltdf-form-element:hover,
+select.eltdf-form-element:hover,
+textarea.eltdf-form-element:hover {
+	background-color:#f7f9fa;
+}
+
+input.eltdf-form-element:focus,
+select.eltdf-form-element:focus,
+textarea.eltdf-form-element:focus {
+	border-color: #999;
+	background-color:#f7f9fa;
+}
+
+input[type="radio"].eltdf-form-element,
+input[type="checkbox"].eltdf-form-element {
+	margin-top: 1px;
+	outline: none;
+}
+
+@media only screen and (max-width: $second-break-point) {
+
+	input[type="radio"].eltdf-form-element,
+	input[type="checkbox"].eltdf-form-element {
+		width: 16px;
+		height: 16px;
+	}
+}
+@media only screen and (max-width: $second-break-point) {
+	input[type="radio"].eltdf-form-element:checked:before,
+	input[type="checkbox"].eltdf-form-element:checked:before {
+		font: 400 21px/1 dashicons;
+	}
+}
+@media only screen and (max-width: $second-break-point) {
+	input[type="checkbox"].eltdf-form-element:checked:before {
+		margin: -3px 0 0 -4px;
+	}
+}
+@media only screen and (max-width: $second-break-point) {
+	input[type="radio"].eltdf-form-element:checked:before {
+		margin: 3px;
+	}
+}
+
+.input-group {
+	margin-bottom: 15px;
+}
+
+.input-group .input-group-addon {
+	@include eltdf-border-radius(0);
+}
+
+label {
+	margin:0;
+}
